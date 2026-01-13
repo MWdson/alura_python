@@ -1,0 +1,5895 @@
+
+{
+    "listBoxesWithSomeClientOffline": [
+        {
+            "ca": "TA03A",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5437316324702",
+            "lng": "-44.1656711237",
+            "total": 12,
+            "online": 10,
+            "offline": 2,
+            "time": 20004
+        },
+        {
+            "ca": "TA04",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5445063831599",
+            "lng": "-44.165558794779",
+            "total": 11,
+            "online": 9,
+            "offline": 2,
+            "time": 137174
+        },
+        {
+            "ca": "TA09",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5465258863024",
+            "lng": "-44.164152163949",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 28747
+        },
+        {
+            "ca": "TA15",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5511034247179",
+            "lng": "-44.164165795522",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 2273653
+        },
+        {
+            "ca": "TA30",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5443420349328",
+            "lng": "-44.163759278045",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 233
+        },
+        {
+            "ca": "TA02",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5434336621461",
+            "lng": "-44.165204988704",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 561
+        },
+        {
+            "ca": "TA33",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5414405934642033",
+            "lng": "-44.16453712965201",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 544
+        },
+        {
+            "ca": "TA44",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5384832886936",
+            "lng": "-44.159111442785",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 6200
+        },
+        {
+            "ca": "TA49",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5404176775721",
+            "lng": "-44.157148436068",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 6270
+        },
+        {
+            "ca": "TA51",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5405505238529",
+            "lng": "-44.156288640453",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 537
+        },
+        {
+            "ca": "TA60",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5504898296121",
+            "lng": "-44.158462635",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 19094
+        },
+        {
+            "ca": "TA62",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5495703635439",
+            "lng": "-44.157979111198",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1635
+        },
+        {
+            "ca": "TA70",
+            "neighborhood": "Tambaú",
+            "lat": "-2.546076063063",
+            "lng": "-44.157094137453",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 1646
+        },
+        {
+            "ca": "TA74",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5496775456963",
+            "lng": "-44.157300512317",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 609
+        },
+        {
+            "ca": "TA76",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5475917061108",
+            "lng": "-44.156978647235",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 6230
+        },
+        {
+            "ca": "TA79",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5421837405919",
+            "lng": "-44.1561638926",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4760
+        },
+        {
+            "ca": "TA81A",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5437513820267",
+            "lng": "-44.156083125389",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 152605
+        },
+        {
+            "ca": "TA91",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.537859",
+            "lng": "-44.164483",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 306
+        },
+        {
+            "ca": "TA96",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.537926",
+            "lng": "-44.162383",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 1237
+        },
+        {
+            "ca": "TA97",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.538895",
+            "lng": "-44.162120",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1994
+        },
+        {
+            "ca": "TA98",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.539030",
+            "lng": "-44.162631",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 531
+        },
+        {
+            "ca": "TA100",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.539275",
+            "lng": "-44.163625",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 94
+        },
+        {
+            "ca": "TA104",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.536460",
+            "lng": "-44.165451",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 630
+        },
+        {
+            "ca": "TA112",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.534236",
+            "lng": "-44.165525",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 1315
+        },
+        {
+            "ca": "TA120",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.535982",
+            "lng": "-44.162951",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 90
+        },
+        {
+            "ca": "TA130",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.532407",
+            "lng": "-44.162369",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 506
+        },
+        {
+            "ca": "TA132",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.530888",
+            "lng": "-44.161882",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 1805
+        },
+        {
+            "ca": "TA144",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.532241",
+            "lng": "-44.166630",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 29739
+        },
+        {
+            "ca": "TA145",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.532789",
+            "lng": "-44.166862",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 4
+        },
+        {
+            "ca": "TA154",
+            "neighborhood": "Vila São José",
+            "lat": "-2.527701",
+            "lng": "-44.166036",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 384
+        },
+        {
+            "ca": "TA163",
+            "neighborhood": "Vila São José",
+            "lat": "-2.528895",
+            "lng": "-44.163436",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 509
+        },
+        {
+            "ca": "TA169",
+            "neighborhood": "Vila São José",
+            "lat": "-2.530420",
+            "lng": "-44.166787",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 117
+        },
+        {
+            "ca": "TA171",
+            "neighborhood": "Vila São José",
+            "lat": "-2.531335",
+            "lng": "-44.165565",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 387
+        },
+        {
+            "ca": "TA173",
+            "neighborhood": "Vila São José",
+            "lat": "-2.530484",
+            "lng": "-44.164841",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 610
+        },
+        {
+            "ca": "TA174",
+            "neighborhood": "Vila São José",
+            "lat": "-2.530361",
+            "lng": "-44.164372",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 1251
+        },
+        {
+            "ca": "TA177",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.529712",
+            "lng": "-44.161693",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 508
+        },
+        {
+            "ca": "TA11",
+            "neighborhood": "Vila Nazare",
+            "lat": "-2.5482115860033048",
+            "lng": "-44.16421423372801",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 413
+        },
+        {
+            "ca": "TA187",
+            "neighborhood": "Maiobão",
+            "lat": "-2.528310",
+            "lng": "-44.173721",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 747453
+        },
+        {
+            "ca": "TA179",
+            "neighborhood": "Maiobão",
+            "lat": "-2.527465522393655",
+            "lng": "-44.16893762115234",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 504
+        },
+        {
+            "ca": "TA180",
+            "neighborhood": "Maiobão",
+            "lat": "-2.527347619999091",
+            "lng": "-44.16856211189027",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 6655
+        },
+        {
+            "ca": "TA182",
+            "neighborhood": "Vila São José",
+            "lat": "-2.527149664079559",
+            "lng": "-44.16972981549902",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 6450
+        },
+        {
+            "ca": "TA101",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.539407",
+            "lng": "-44.164117",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 3230
+        },
+        {
+            "ca": "RC01A4",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5326900517593",
+            "lng": "-44.185553602919",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 584
+        },
+        {
+            "ca": "RC02B4",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5321943277072",
+            "lng": "-44.185674302324",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 7229
+        },
+        {
+            "ca": "RC02B1",
+            "neighborhood": "Condomínio Riviera Cohatrac - Vila Maioba do Janipapeiro",
+            "lat": "-2.532091454550368",
+            "lng": "-44.18566338495433",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 528
+        },
+        {
+            "ca": "RC14B4",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5321943277072",
+            "lng": "-44.185251854405",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 37743
+        },
+        {
+            "ca": "RC15B1",
+            "neighborhood": "Condomínio Riviera Cohatrac - Vila Maioba do Janipapeiro",
+            "lat": "-2.532659527547380",
+            "lng": "-44.185132307569404",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 7230
+        },
+        {
+            "ca": "RC16B1",
+            "neighborhood": "Condomínio Riviera Cohatrac - Vila Maioba do Janipapeiro",
+            "lat": "-2.533052830816487",
+            "lng": "-44.185030476363224",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 553
+        },
+        {
+            "ca": "TA410",
+            "neighborhood": "Jaguarema",
+            "lat": "-2.5424594353182215",
+            "lng": "-44.16432463169753",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 144129
+        },
+        {
+            "ca": "TA398",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.542559462179895",
+            "lng": "-44.166640809756004",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 251
+        },
+        {
+            "ca": "TA402",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.541525148323686",
+            "lng": "-44.166903666239",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 183
+        },
+        {
+            "ca": "TA424",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5437360719354",
+            "lng": "-44.169090984829",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 232853
+        },
+        {
+            "ca": "TA431",
+            "neighborhood": "Maiobão",
+            "lat": "-2.541699746643559",
+            "lng": "-44.171881847577005",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 2589
+        },
+        {
+            "ca": "TA432",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5420968807638",
+            "lng": "-44.173406752487",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 140
+        },
+        {
+            "ca": "TA442",
+            "neighborhood": "Maiobão",
+            "lat": "-2.543426756417304",
+            "lng": "-44.1697702471878",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 692
+        },
+        {
+            "ca": "TA461",
+            "neighborhood": "Maiobão",
+            "lat": "-2.542414923749007",
+            "lng": "-44.174585594136545",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 70082
+        },
+        {
+            "ca": "TA452",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.5449246858895407",
+            "lng": "-44.173914060656315",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 524
+        },
+        {
+            "ca": "TA466",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5464311476269756",
+            "lng": "-44.17354008426454",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 2723
+        },
+        {
+            "ca": "TA468",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.5466930845705065",
+            "lng": "-44.174507894879",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1093
+        },
+        {
+            "ca": "TA510",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5492788900935466",
+            "lng": "-44.17544444948468",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 881566
+        },
+        {
+            "ca": "TA511",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.5497866982997692",
+            "lng": "-44.175324948687056",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 2357268
+        },
+        {
+            "ca": "TA513",
+            "neighborhood": "Maiobão",
+            "lat": "-2.550827532165016",
+            "lng": "-44.175080012606",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 42
+        },
+        {
+            "ca": "TA523",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.5468971871461434",
+            "lng": "-44.17106811674237",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 74
+        },
+        {
+            "ca": "TA357",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.540372889856826",
+            "lng": "-44.167235028325024",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 5736
+        },
+        {
+            "ca": "TA366",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5387347895857033",
+            "lng": "-44.169327687633",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 1807
+        },
+        {
+            "ca": "TA241",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5361131",
+            "lng": "-44.1717622",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 15
+        },
+        {
+            "ca": "TA203",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5333624922490685",
+            "lng": "-44.16784630169576",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 6056
+        },
+        {
+            "ca": "TA216",
+            "neighborhood": "Maiobão",
+            "lat": "-2.53291887788842",
+            "lng": "-44.17025685969299",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 2592
+        },
+        {
+            "ca": "TA251",
+            "neighborhood": "Maiobão",
+            "lat": "-2.534982700432195",
+            "lng": "-44.173606090171",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 20184
+        },
+        {
+            "ca": "TA278",
+            "neighborhood": "Maiobão",
+            "lat": "-2.537512284630992",
+            "lng": "-44.172943181535494",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 3175
+        },
+        {
+            "ca": "TA289",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5340196861533",
+            "lng": "-44.176784693653",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 317
+        },
+        {
+            "ca": "TA293",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.535686387700906",
+            "lng": "-44.176339446956",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 97
+        },
+        {
+            "ca": "TA298",
+            "neighborhood": "Maiobão",
+            "lat": "-2.536604072151974",
+            "lng": "-44.175588967632464",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 1303
+        },
+        {
+            "ca": "TA299",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5367321332685435",
+            "lng": "-44.17604157755601",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 6121
+        },
+        {
+            "ca": "TA317",
+            "neighborhood": "Maiobão",
+            "lat": "-2.541869355422662",
+            "lng": "-44.177268096922774",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 67
+        },
+        {
+            "ca": "TA329",
+            "neighborhood": "Hab Maiobao",
+            "lat": "-2.5352079084986",
+            "lng": "-44.166313696693",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 402
+        },
+        {
+            "ca": "TA349",
+            "neighborhood": "Parque Jaguarema",
+            "lat": "-2.538752227979785",
+            "lng": "-44.16702929720507",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 6002
+        },
+        {
+            "ca": "TA373",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5400107968932417",
+            "lng": "-44.17179488788389",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 28835
+        },
+        {
+            "ca": "TA383",
+            "neighborhood": "Maiobão",
+            "lat": "-2.537340329469629",
+            "lng": "-44.17202008314274",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 401
+        },
+        {
+            "ca": "TA386",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5385853221284975",
+            "lng": "-44.172771238718",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 74
+        },
+        {
+            "ca": "TA387",
+            "neighborhood": "Maiobão",
+            "lat": "-2.537121513574405",
+            "lng": "-44.17139546725001",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 189
+        },
+        {
+            "ca": "VJ4B1",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.538941812745591",
+            "lng": "-44.19012510891093",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 78
+        },
+        {
+            "ca": "VJ4B3",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.5392044111678302",
+            "lng": "-44.189856888009444",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 1747
+        },
+        {
+            "ca": "VJ4B4",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.539271400552707",
+            "lng": "-44.18978178615703",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 9069
+        },
+        {
+            "ca": "VJ4B5",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5396545797674577",
+            "lng": "-44.18940359468593",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 413
+        },
+        {
+            "ca": "VJ4B6",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5397242487033935",
+            "lng": "-44.18932849283357",
+            "total": 16,
+            "online": 12,
+            "offline": 4,
+            "time": 41710
+        },
+        {
+            "ca": "VJ4B7",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5399037801748108",
+            "lng": "-44.18914342041155",
+            "total": 12,
+            "online": 10,
+            "offline": 2,
+            "time": 1208
+        },
+        {
+            "ca": "RPB2A",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.540582387251902",
+            "lng": "-44.189942167412",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 1888
+        },
+        {
+            "ca": "RPB4B",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.540906615496496",
+            "lng": "-44.18957738698601",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 9881
+        },
+        {
+            "ca": "RPB5B",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.5411290199477037",
+            "lng": "-44.18932257713",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 82
+        },
+        {
+            "ca": "RPB8A",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.5402628684788056",
+            "lng": "-44.189567145824",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 535
+        },
+        {
+            "ca": "RPB7A",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.540576378513279",
+            "lng": "-44.189237234115",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 278
+        },
+        {
+            "ca": "RPB10B",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.540353973966802",
+            "lng": "-44.189100441456",
+            "total": 5,
+            "online": 3,
+            "offline": 2,
+            "time": 92886
+        },
+        {
+            "ca": "RPB11B",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.5398716507223185",
+            "lng": "-44.189572510242",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 27831
+        },
+        {
+            "ca": "RPB11A",
+            "neighborhood": "Residencial Paraty - Vila Maioba do Janipapeiro",
+            "lat": "-2.539718914990715",
+            "lng": "-44.189746853828005",
+            "total": 6,
+            "online": 4,
+            "offline": 2,
+            "time": 148687
+        },
+        {
+            "ca": "RG2B5A",
+            "neighborhood": "Condomínio Guarujá I - Vila Maioba do Janipapeiro",
+            "lat": "-2.541497019400097",
+            "lng": "-44.18949455879499",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 2198
+        },
+        {
+            "ca": "RG2B5B",
+            "neighborhood": "Condomínio Guarujá I - Vila Maioba do Janipapeiro",
+            "lat": "-2.5416042022240077",
+            "lng": "-44.189376541598",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 634
+        },
+        {
+            "ca": "RG1B2B",
+            "neighborhood": "Condomínio Guarujá I - Vila Maioba do Janipapeiro",
+            "lat": "-2.5410562591080037",
+            "lng": "-44.190237184717",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 1501
+        },
+        {
+            "ca": "RG1B5B",
+            "neighborhood": "Condomínio Guarujá I - Vila Maioba do Janipapeiro",
+            "lat": "-2.5417690249628038",
+            "lng": "-44.189502259446996",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 586
+        },
+        {
+            "ca": "TA545A",
+            "neighborhood": "Vila Nazare",
+            "lat": "-2.5489139498081954",
+            "lng": "-44.169171904036",
+            "total": 14,
+            "online": 12,
+            "offline": 2,
+            "time": 4579
+        },
+        {
+            "ca": "VJ1B2",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.5410684499820206",
+            "lng": "-44.191072813307",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 12942
+        },
+        {
+            "ca": "TA42B",
+            "neighborhood": "Cjr Parana III",
+            "lat": "-2.538459172500694",
+            "lng": "-44.160205784062",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 465
+        },
+        {
+            "ca": "RVB4A",
+            "neighborhood": "Condomínio Residencial Vitalle - Trizidela",
+            "lat": "-2.5385529425417985",
+            "lng": "-44.192681250625",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 201
+        },
+        {
+            "ca": "RVB5A",
+            "neighborhood": "Condomínio Residencial Vitalle - Trizidela",
+            "lat": "-2.538359417516901",
+            "lng": "-44.19274681577001",
+            "total": 6,
+            "online": 3,
+            "offline": 3,
+            "time": 10674
+        },
+        {
+            "ca": "RVB2A",
+            "neighborhood": "Condomínio Residencial Vitalle - Trizidela",
+            "lat": "-2.5389489242884054",
+            "lng": "-44.192556826143",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 25220
+        },
+        {
+            "ca": "RVB5B",
+            "neighborhood": "Condomínio Residencial Vitalle - Trizidela",
+            "lat": "-2.5384010998738944",
+            "lng": "-44.192898807506",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 132676
+        },
+        {
+            "ca": "RVB6A",
+            "neighborhood": "Condomínio Residencial Vitalle - Trizidela",
+            "lat": "-2.5381450513217914",
+            "lng": "-44.192806420433",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 7570
+        },
+        {
+            "ca": "VJ1B3",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.5412171093071976",
+            "lng": "-44.190914073393",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 4445
+        },
+        {
+            "ca": "VJ1B4",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5413162534409963",
+            "lng": "-44.190809467242",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 216
+        },
+        {
+            "ca": "VJ1B6",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.541852167546409",
+            "lng": "-44.19024083893",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 537
+        },
+        {
+            "ca": "VJ1B7",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.542018300873906",
+            "lng": "-44.190071859762",
+            "total": 13,
+            "online": 11,
+            "offline": 2,
+            "time": 2069
+        },
+        {
+            "ca": "VJ1B8",
+            "neighborhood": "Cjr Laranjeiras",
+            "lat": "-2.5421469202094897",
+            "lng": "-44.189940431521",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 16172
+        },
+        {
+            "ca": "SPBA1",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5380742159769",
+            "lng": "-44.189688900837",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 0
+        },
+        {
+            "ca": "SPBA2",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5381193235619",
+            "lng": "-44.189489314757",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 509
+        },
+        {
+            "ca": "SPBA3",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.538410",
+            "lng": "-44.189402",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 519
+        },
+        {
+            "ca": "SPBB3",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.538889",
+            "lng": "-44.188995",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 541
+        },
+        {
+            "ca": "SPBC3",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.539393611047842",
+            "lng": "-44.18857140337349",
+            "total": 8,
+            "online": 5,
+            "offline": 3,
+            "time": 31320
+        },
+        {
+            "ca": "SPBD1",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5382052175429",
+            "lng": "-44.189825991448",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 498
+        },
+        {
+            "ca": "SPBE2",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.538941060521026",
+            "lng": "-44.189316460923855",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 482
+        },
+        {
+            "ca": "SPBE3",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.539054198188026",
+            "lng": "-44.189101884202664",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 301
+        },
+        {
+            "ca": "SPBF3",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5395186577694915",
+            "lng": "-44.18868465205304",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 30550
+        },
+        {
+            "ca": "SPBG2",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5385803583845",
+            "lng": "-44.189963082058",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 49488
+        },
+        {
+            "ca": "SPBH1",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5389435898132",
+            "lng": "-44.189736584699",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 3013
+        },
+        {
+            "ca": "SPBH2",
+            "neighborhood": "Summer Park Residence - Trizidela",
+            "lat": "-2.5392591842638",
+            "lng": "-44.189414719617",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 29541
+        },
+        {
+            "ca": "VDS1B2",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5377754064956974",
+            "lng": "-44.189011804770004",
+            "total": 14,
+            "online": 11,
+            "offline": 3,
+            "time": 3363
+        },
+        {
+            "ca": "VDS1B5",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5382607078399957",
+            "lng": "-44.188570730362",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 17191
+        },
+        {
+            "ca": "VDS1B6",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.538361936298301",
+            "lng": "-44.18849622457401",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 8499
+        },
+        {
+            "ca": "VDS1B7",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.538513779052508",
+            "lng": "-44.188368074441996",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 568
+        },
+        {
+            "ca": "CMSLZ-B",
+            "neighborhood": "Condomínio Maraville - Forquilha",
+            "lat": "-2.5507110081635034",
+            "lng": "-44.205009202952",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 11135
+        },
+        {
+            "ca": "CMALC-A",
+            "neighborhood": "Condomínio Maraville - Forquilha",
+            "lat": "-2.5511665318455954",
+            "lng": "-44.204931418891",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 239
+        },
+        {
+            "ca": "TA69B",
+            "neighborhood": "Sítio Natureza",
+            "lat": "-2.5442156822136752",
+            "lng": "-44.15682851440209",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 504
+        },
+        {
+            "ca": "LIMB4",
+            "neighborhood": "Condomínio Limeira -  Lima Verde",
+            "lat": "-2.5486266334187206",
+            "lng": "-44.192717423312",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 40
+        },
+        {
+            "ca": "LARANB2",
+            "neighborhood": "Condomínio Limeira - Lima Verde",
+            "lat": "-2.5482817859402047",
+            "lng": "-44.19275824594299",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 965
+        },
+        {
+            "ca": "RIV3B01",
+            "neighborhood": "Condomínio Riviera III -  Lima Verde",
+            "lat": "-2.5498956841683196",
+            "lng": "-44.191038286768",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1446
+        },
+        {
+            "ca": "RIV3B08",
+            "neighborhood": "Condomínio Riviera III -  Lima Verde",
+            "lat": "-2.549276707219903",
+            "lng": "-44.191427207075",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1053
+        },
+        {
+            "ca": "RIV3B11",
+            "neighborhood": "Condomínio Riviera III -  Lima Verde",
+            "lat": "-2.549842093102299",
+            "lng": "-44.191287732206",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 3189
+        },
+        {
+            "ca": "RIV3B24",
+            "neighborhood": "Condomínio Riviera III -  Lima Verde",
+            "lat": "-2.5488356122620957",
+            "lng": "-44.191546646871004",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 2207
+        },
+        {
+            "ca": "INDAB4",
+            "neighborhood": "Condomínio Indaiatuba - Lima Verde",
+            "lat": "-2.549509928838205",
+            "lng": "-44.192173391563",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 251
+        },
+        {
+            "ca": "INDAB5",
+            "neighborhood": "Condomínio Indaiatuba - Lima Verde",
+            "lat": "-2.5494831332974996",
+            "lng": "-44.192052692157",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 589
+        },
+        {
+            "ca": "TA717",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.548410469953396",
+            "lng": "-44.19082388342",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 2935
+        },
+        {
+            "ca": "TA723",
+            "neighborhood": "Cjr Lima Verde",
+            "lat": "-2.549118682362206",
+            "lng": "-44.189531246372",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 1362
+        },
+        {
+            "ca": "TA724",
+            "neighborhood": "Residencial Morada Nova -  Lima Verde",
+            "lat": "-2.5501047581738163",
+            "lng": "-44.190657774158005",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 540
+        },
+        {
+            "ca": "TA706",
+            "neighborhood": "Ltm Getulio Vargas",
+            "lat": "-2.5421312032939056",
+            "lng": "-44.17805653284238",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 51792
+        },
+        {
+            "ca": "TA714",
+            "neighborhood": "Ltm Getulio Vargas",
+            "lat": "-2.5381277633117065",
+            "lng": "-44.178986996085",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 29447
+        },
+        {
+            "ca": "TA689",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.539969550047118",
+            "lng": "-44.18136429595099",
+            "total": 13,
+            "online": 11,
+            "offline": 2,
+            "time": 567
+        },
+        {
+            "ca": "TA671",
+            "neighborhood": "Maiobão",
+            "lat": "-2.548919453394433",
+            "lng": "-44.180804442626716",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 77
+        },
+        {
+            "ca": "RIV1B1",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.553263919929094",
+            "lng": "-44.19072917721999",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 428
+        },
+        {
+            "ca": "RIV1B2",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.5530415175731065",
+            "lng": "-44.190764045938",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 8266
+        },
+        {
+            "ca": "RIV1B5",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.5525875247587066",
+            "lng": "-44.19084872614",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 6224
+        },
+        {
+            "ca": "RIV1B7",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.552225785776997",
+            "lng": "-44.190921145783",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 38559
+        },
+        {
+            "ca": "RIV1B12",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.551309379901184",
+            "lng": "-44.19129665504601",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 141
+        },
+        {
+            "ca": "RIV1B14",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.550880651781796",
+            "lng": "-44.19137175689801",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1829
+        },
+        {
+            "ca": "RIV1B21",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.552746767403491",
+            "lng": "-44.190637982114",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 916
+        },
+        {
+            "ca": "RIV1B22",
+            "neighborhood": "Condomínio Riviera I -  Lima Verde",
+            "lat": "-2.55296381071679",
+            "lng": "-44.190597748979",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 36607
+        },
+        {
+            "ca": "LED2B1",
+            "neighborhood": "Condomínio LED Residence II -  Vila Kiola Costa",
+            "lat": "-2.5560574688879996",
+            "lng": "-44.187305265671",
+            "total": 4,
+            "online": 2,
+            "offline": 2,
+            "time": 551
+        },
+        {
+            "ca": "LED2B4",
+            "neighborhood": "Condomínio LED Residence II -  Vila Kiola Costa",
+            "lat": "-2.555534958404394",
+            "lng": "-44.187506431347",
+            "total": 5,
+            "online": 3,
+            "offline": 2,
+            "time": 12027
+        },
+        {
+            "ca": "RIV2B11",
+            "neighborhood": "Condomínio Riviera II -  Lima Verde",
+            "lat": "-2.5551253910864062",
+            "lng": "-44.192691394757",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 10174
+        },
+        {
+            "ca": "RIV2B12",
+            "neighborhood": "Condomínio Riviera II -  Lima Verde",
+            "lat": "-2.5551548660517938",
+            "lng": "-44.192905971478",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 497
+        },
+        {
+            "ca": "RIV2B13",
+            "neighborhood": "Condomínio Riviera II -  Lima Verde",
+            "lat": "-2.5552004182698056",
+            "lng": "-44.193123230408",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 698
+        },
+        {
+            "ca": "RIV2B14",
+            "neighborhood": "Condomínio Riviera II -  Lima Verde",
+            "lat": "-2.555229893233488",
+            "lng": "-44.193340489338",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1140
+        },
+        {
+            "ca": "TA214 A",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5312938906464666",
+            "lng": "-44.16926848824581",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 5626
+        },
+        {
+            "ca": "TA214 B",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5302421831531063",
+            "lng": "-44.169989544514",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 579
+        },
+        {
+            "ca": "TA1108",
+            "neighborhood": "Pindaí",
+            "lat": "-2.527344697765784",
+            "lng": "-44.14764239682498",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 105
+        },
+        {
+            "ca": "TA1122",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.5252092264170614",
+            "lng": "-44.147741267302415",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1108
+        },
+        {
+            "ca": "TA1136",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.5264384207954294",
+            "lng": "-44.145896659262014",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 919
+        },
+        {
+            "ca": "TA1140",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.525684362467743",
+            "lng": "-44.14591393386094",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 507
+        },
+        {
+            "ca": "TA1141",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.5258247949288233",
+            "lng": "-44.14383334532026",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 6867
+        },
+        {
+            "ca": "TA1150",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.523863871642689",
+            "lng": "-44.14594024656274",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 1350
+        },
+        {
+            "ca": "TA1154",
+            "neighborhood": "Novo Horizonte",
+            "lat": "-2.523121943639339",
+            "lng": "-44.14594614455957",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 5
+        },
+        {
+            "ca": "TA549",
+            "neighborhood": "Maiobão",
+            "lat": "-2.546379512582263",
+            "lng": "-44.16695900439474",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 1206
+        },
+        {
+            "ca": "TA557",
+            "neighborhood": "Maiobão",
+            "lat": "-2.547207570255722",
+            "lng": "-44.16944304396348",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 43
+        },
+        {
+            "ca": "TA567",
+            "neighborhood": "Centro",
+            "lat": "-2.5489786846603693",
+            "lng": "-44.167655714455286",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 1676
+        },
+        {
+            "ca": "TA572",
+            "neighborhood": "Vila Nazare",
+            "lat": "-2.548920307088281",
+            "lng": "-44.1697080866811",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 133
+        },
+        {
+            "ca": "TA292A",
+            "neighborhood": "Maiobão",
+            "lat": "-2.533725198967403",
+            "lng": "-44.178562273569",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 3114
+        },
+        {
+            "ca": "LABELLE 6B",
+            "neighborhood": "Condomínio Village La Belle - Lima Verde",
+            "lat": "-2.549495343320686",
+            "lng": "-44.179011668945",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 39271
+        },
+        {
+            "ca": "TA1474",
+            "neighborhood": "Itaguara II",
+            "lat": "-2.5442250519959657",
+            "lng": "-44.1982283733536",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1008
+        },
+        {
+            "ca": "TA1470",
+            "neighborhood": "Itaguara II",
+            "lat": "-2.543307824229643",
+            "lng": "-44.19807681085432",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 13198
+        },
+        {
+            "ca": "TA1469",
+            "neighborhood": "Itaguara II",
+            "lat": "-2.5430587097605866",
+            "lng": "-44.19884831016287",
+            "total": 14,
+            "online": 12,
+            "offline": 2,
+            "time": 55352
+        },
+        {
+            "ca": "TA1463",
+            "neighborhood": "Itaguara II",
+            "lat": "-2.5422216033285423",
+            "lng": "-44.20092343876677",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 152
+        },
+        {
+            "ca": "TA1457",
+            "neighborhood": "Jardim Alvorada",
+            "lat": "-2.5413824605738995",
+            "lng": "-44.20077962826284",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 78
+        },
+        {
+            "ca": "TA1438",
+            "neighborhood": "Jardim Alvorada",
+            "lat": "-2.541452175137863",
+            "lng": "-44.19744367404469",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 3210
+        },
+        {
+            "ca": "TA1439",
+            "neighborhood": "Jardim Alvorada",
+            "lat": "-2.5411792384122123",
+            "lng": "-44.19626628877874",
+            "total": 6,
+            "online": 4,
+            "offline": 2,
+            "time": 14379
+        },
+        {
+            "ca": "TA1449",
+            "neighborhood": "Jardim Alvorada",
+            "lat": "-2.5431843617903667",
+            "lng": "-44.19557065058595",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 2969
+        },
+        {
+            "ca": "TA1389",
+            "neighborhood": "Cohatrac IV",
+            "lat": "-2.535992917288894",
+            "lng": "-44.211485525638",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1045
+        },
+        {
+            "ca": "TA1385",
+            "neighborhood": "Cohatrac IV",
+            "lat": "-2.5355113661161113",
+            "lng": "-44.207345816914454",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 33194
+        },
+        {
+            "ca": "TA1398",
+            "neighborhood": "Cohatrac IV",
+            "lat": "-2.5337261494520362",
+            "lng": "-44.201375975097584",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 14743
+        },
+        {
+            "ca": "TA1317",
+            "neighborhood": "Cohatrac II",
+            "lat": "-2.5369293801633717",
+            "lng": "-44.207926003669556",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 355
+        },
+        {
+            "ca": "TA1318",
+            "neighborhood": "Cohatrac I",
+            "lat": "-2.5372109480060203",
+            "lng": "-44.20914658480253",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 86
+        },
+        {
+            "ca": "TA1320",
+            "neighborhood": "Cohatrac II",
+            "lat": "-2.538941170613043",
+            "lng": "-44.21024259393529",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 5
+        },
+        {
+            "ca": "TA1325",
+            "neighborhood": "Cohatrac II",
+            "lat": "-2.5377902925924047",
+            "lng": "-44.205155115736",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1742109
+        },
+        {
+            "ca": "TA968",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5460528271638054",
+            "lng": "-44.206303437038855",
+            "total": 11,
+            "online": 9,
+            "offline": 2,
+            "time": 6180
+        },
+        {
+            "ca": "TA970",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5465140884516586",
+            "lng": "-44.2066834061788",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 575
+        },
+        {
+            "ca": "TA971",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5462943967272906",
+            "lng": "-44.20571496134804",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 455
+        },
+        {
+            "ca": "TA981",
+            "neighborhood": "Forquilha",
+            "lat": "-2.5493637586749287",
+            "lng": "-44.20355522658885",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 7337
+        },
+        {
+            "ca": "TA1408",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5455039901095233",
+            "lng": "-44.20524747315959",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 4265
+        },
+        {
+            "ca": "TA1413",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5451262508289005",
+            "lng": "-44.204897050710215",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 118
+        },
+        {
+            "ca": "TA1418",
+            "neighborhood": "Jardim das Margaridas",
+            "lat": "-2.5454908388358035",
+            "lng": "-44.208080944932",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 3209
+        },
+        {
+            "ca": "TA1420",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5446454221189185",
+            "lng": "-44.2073981102006",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 20448
+        },
+        {
+            "ca": "TA1434",
+            "neighborhood": "Cohatrac V",
+            "lat": "-2.5428318276624395",
+            "lng": "-44.2071548611366",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4343
+        },
+        {
+            "ca": "TA1367",
+            "neighborhood": "Cohatrac III",
+            "lat": "-2.5344475984237",
+            "lng": "-44.19697089618",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 3122
+        },
+        {
+            "ca": "TA1346",
+            "neighborhood": "Cohatrac III",
+            "lat": "-2.5411216616836185",
+            "lng": "-44.20020002336153",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 3166
+        },
+        {
+            "ca": "TA1517",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5420781632980294",
+            "lng": "-44.20227566934074",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1154
+        },
+        {
+            "ca": "TA1518",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5423137825377466",
+            "lng": "-44.203292076384756",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 168
+        },
+        {
+            "ca": "TA1519",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5429318541939097",
+            "lng": "-44.203891334449",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 36306
+        },
+        {
+            "ca": "TA1522",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5449893138467274",
+            "lng": "-44.202984171353876",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 569
+        },
+        {
+            "ca": "TA1526",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.542455067440102",
+            "lng": "-44.201688598468",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 25960
+        },
+        {
+            "ca": "TA1527",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5432907321101226",
+            "lng": "-44.20118603781072",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 36877
+        },
+        {
+            "ca": "TA1528",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5442235815821164",
+            "lng": "-44.200036357715",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 66171
+        },
+        {
+            "ca": "TA1531",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5463707143739356",
+            "lng": "-44.199505488417365",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 322
+        },
+        {
+            "ca": "TA1293",
+            "neighborhood": "Cohatrac I",
+            "lat": "-2.5421711393589987",
+            "lng": "-44.20465523218895",
+            "total": 10,
+            "online": 8,
+            "offline": 2,
+            "time": 6997
+        },
+        {
+            "ca": "TA1299",
+            "neighborhood": "Cohatrac I",
+            "lat": "-2.5416857652744937",
+            "lng": "-44.20899286529001",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 9272
+        },
+        {
+            "ca": "TA08A",
+            "neighborhood": "Tambaú",
+            "lat": "-2.5466708200232944",
+            "lng": "-44.165283034109",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 3187
+        },
+        {
+            "ca": "TA1699",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.535094284477097",
+            "lng": "-44.19032936863383",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 1264
+        },
+        {
+            "ca": "TA1701",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5323656608696155",
+            "lng": "-44.19104860316283",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 538
+        },
+        {
+            "ca": "TA1705",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5326347432110197",
+            "lng": "-44.192267188215446",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 3232
+        },
+        {
+            "ca": "TA1711",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.532651742472183",
+            "lng": "-44.193974401077405",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 3214
+        },
+        {
+            "ca": "TA1719",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.539842242959",
+            "lng": "-44.193747217026",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 3126
+        },
+        {
+            "ca": "TA1720",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5390930328016",
+            "lng": "-44.194194026169",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 23
+        },
+        {
+            "ca": "TA1726",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5324825072303128",
+            "lng": "-44.19619310104383",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 2827
+        },
+        {
+            "ca": "TA1729",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5366632440882313",
+            "lng": "-44.1951367156681",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 322
+        },
+        {
+            "ca": "TA1730",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5374669509917",
+            "lng": "-44.194420400281",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 61052
+        },
+        {
+            "ca": "TA1731",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5366739624111005",
+            "lng": "-44.19385461975897",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 1258
+        },
+        {
+            "ca": "TA1733",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.538040547851139",
+            "lng": "-44.19239549805482",
+            "total": 16,
+            "online": 14,
+            "offline": 2,
+            "time": 12811
+        },
+        {
+            "ca": "TA1189",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5323286064530066",
+            "lng": "-44.14109247836032",
+            "total": 6,
+            "online": 4,
+            "offline": 2,
+            "time": 7726
+        },
+        {
+            "ca": "TA1202",
+            "neighborhood": "Pindaí",
+            "lat": "-2.534549639173747",
+            "lng": "-44.14197021955468",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 7150
+        },
+        {
+            "ca": "TA1203",
+            "neighborhood": "Pindaí",
+            "lat": "-2.534699695931195",
+            "lng": "-44.14113337034203",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 106
+        },
+        {
+            "ca": "TA1199",
+            "neighborhood": "Pindaí",
+            "lat": "-2.533777918432122",
+            "lng": "-44.13831168645835",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 585
+        },
+        {
+            "ca": "TA1209",
+            "neighborhood": "Pindaí",
+            "lat": "-2.535621472773798",
+            "lng": "-44.140950980129034",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 28486
+        },
+        {
+            "ca": "TA1204",
+            "neighborhood": "Pindaí",
+            "lat": "-2.534956936046342",
+            "lng": "-44.13906270498255",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 1149
+        },
+        {
+            "ca": "TA1210",
+            "neighborhood": "Pindaí",
+            "lat": "-2.535830795467348",
+            "lng": "-44.13885885709739",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 617
+        },
+        {
+            "ca": "TA1216",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5366239516314124",
+            "lng": "-44.13854159008819",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 3701
+        },
+        {
+            "ca": "TA1231",
+            "neighborhood": "Pindaí",
+            "lat": "-2.539104211114335",
+            "lng": "-44.13305085588156",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 618
+        },
+        {
+            "ca": "TA1241",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5373892815460835",
+            "lng": "-44.13116258073506",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 660
+        },
+        {
+            "ca": "TA216B",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5315652163225195",
+            "lng": "-44.17123001287929",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 79260
+        },
+        {
+            "ca": "TA1276",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5286587388469",
+            "lng": "-44.148808074557",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 2663
+        },
+        {
+            "ca": "TA1259A",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5325642922839933",
+            "lng": "-44.147142330133",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 223
+        },
+        {
+            "ca": "TA1257",
+            "neighborhood": "Pindaí",
+            "lat": "-2.532151635478712",
+            "lng": "-44.145313063586",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 153
+        },
+        {
+            "ca": "TA1262",
+            "neighborhood": "Pindaí",
+            "lat": "-2.529785236749376",
+            "lng": "-44.146639917854856",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 320
+        },
+        {
+            "ca": "TA1267",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5285442867643013",
+            "lng": "-44.14678702218999",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1210
+        },
+        {
+            "ca": "DINAPOLI B1B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5348853513358023",
+            "lng": "-44.186681841185",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 3009
+        },
+        {
+            "ca": "DINAPOLI B2B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.534912147179597",
+            "lng": "-44.186907146742",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 35262
+        },
+        {
+            "ca": "DINAPOLI B4A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5344512585877936",
+            "lng": "-44.187057350448",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 4100
+        },
+        {
+            "ca": "DINAPOLI B4B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.534606674526586",
+            "lng": "-44.187164638808",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 361
+        },
+        {
+            "ca": "DINAPOLI B5A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5344446890370875",
+            "lng": "-44.18646414418",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 525
+        },
+        {
+            "ca": "DINAPOLI B6A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5341871806678995",
+            "lng": "-44.186613696575",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 4430
+        },
+        {
+            "ca": "TA2527",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.559402607452938",
+            "lng": "-44.11113739632738",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 53307
+        },
+        {
+            "ca": "TA2530",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.558734537509366",
+            "lng": "-44.1123527345884",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 590
+        },
+        {
+            "ca": "TA2533",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.557723065327707",
+            "lng": "-44.112877471118",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 5515
+        },
+        {
+            "ca": "TA2518",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.5587867728232396",
+            "lng": "-44.114966581487856",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4990
+        },
+        {
+            "ca": "TA2521",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.55847153852379",
+            "lng": "-44.11475048303183",
+            "total": 6,
+            "online": 4,
+            "offline": 2,
+            "time": 526
+        },
+        {
+            "ca": "TA2523",
+            "neighborhood": "Condomínio Village dos Pássaros IV -  Vila Piçarreira",
+            "lat": "-2.558358996262996",
+            "lng": "-44.11358840266034",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 76
+        },
+        {
+            "ca": "D'AMPEZZO BC1",
+            "neighborhood": "Cortina D'Ampezzo Residence - Jardim Alvorada",
+            "lat": "-2.5463412765383",
+            "lng": "-44.197190941901",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 639
+        },
+        {
+            "ca": "D'AMPEZZO BD2",
+            "neighborhood": "Cortina D'Ampezzo Residence - Jardim Alvorada",
+            "lat": "-2.546886154361303",
+            "lng": "-44.19694027069299",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 29276
+        },
+        {
+            "ca": "D'AMPEZZO BF1",
+            "neighborhood": "Cortina D'Ampezzo Residence - Jardim Alvorada",
+            "lat": "-2.5470182459201",
+            "lng": "-44.197223997446",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 30777
+        },
+        {
+            "ca": "TA2534",
+            "neighborhood": "Condomínio Margareth Alencar -  Vila Piçarreira",
+            "lat": "-2.5492905547295948",
+            "lng": "-44.1110133320482",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 25371
+        },
+        {
+            "ca": "TA2543",
+            "neighborhood": "Condomínio Santo Estevam -  Residencial Nova Terra",
+            "lat": "-2.559666539184846",
+            "lng": "-44.1540464255114",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 32990
+        },
+        {
+            "ca": "TA2547",
+            "neighborhood": "Condomínio Santo Estevam -  Residencial Nova Terra",
+            "lat": "-2.559847726095782",
+            "lng": "-44.155070458669556",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 633
+        },
+        {
+            "ca": "LED1 B4",
+            "neighborhood": "Condomínio LED Residence I -  Vila Kiola Costa",
+            "lat": "-2.553799055057297",
+            "lng": "-44.188113913440006",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 59
+        },
+        {
+            "ca": "LED1 B6",
+            "neighborhood": "Condomínio LED Residence I -  Vila Kiola Costa",
+            "lat": "-2.5541768708620083",
+            "lng": "-44.18798516740699",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 490
+        },
+        {
+            "ca": "LED1 B8",
+            "neighborhood": "Condomínio LED Residence I -  Vila Kiola Costa",
+            "lat": "-2.554608277425203",
+            "lng": "-44.187802777195",
+            "total": 3,
+            "online": 1,
+            "offline": 2,
+            "time": 30326
+        },
+        {
+            "ca": "TA2561",
+            "neighborhood": "Condomínio Village dos Pássaros II -  Vila Piçarreira",
+            "lat": "-2.556154616091149",
+            "lng": "-44.11462460032216",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 586
+        },
+        {
+            "ca": "TA2566",
+            "neighborhood": "Condomínio Village dos Pássaros II -  Vila Piçarreira",
+            "lat": "-2.5566569750318706",
+            "lng": "-44.11447552303649",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 19179
+        },
+        {
+            "ca": "TA2550",
+            "neighborhood": "Condomínio Village dos Pássaros II -  Vila Piçarreira",
+            "lat": "-2.5555039063850558",
+            "lng": "-44.11337410428448",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 580
+        },
+        {
+            "ca": "TA2573",
+            "neighborhood": "Condomínio Tracoá 1 -  São José de Ribamar",
+            "lat": "-2.555878338213404",
+            "lng": "-44.13973879723899",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 36449
+        },
+        {
+            "ca": "TA2576",
+            "neighborhood": "Condomínio Tracoá 2 -  São José de Ribamar",
+            "lat": "-2.5563487597260917",
+            "lng": "-44.14060927805508",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 4961
+        },
+        {
+            "ca": "TA2578",
+            "neighborhood": "Condomínio Tracoá 2 -  São José de Ribamar",
+            "lat": "-2.5570037946643254",
+            "lng": "-44.14006128008946",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1786
+        },
+        {
+            "ca": "TA2580",
+            "neighborhood": "Condomínio Tracoá 2 -  São José de Ribamar",
+            "lat": "-2.557574261728263",
+            "lng": "-44.139476812712445",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 3350
+        },
+        {
+            "ca": "TA1853",
+            "neighborhood": "Manaíra",
+            "lat": "-2.5339602295518944",
+            "lng": "-44.159378710242",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 540
+        },
+        {
+            "ca": "TA1859",
+            "neighborhood": "Paranã",
+            "lat": "-2.534800550315566",
+            "lng": "-44.16174034201573",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 11243
+        },
+        {
+            "ca": "TA1897",
+            "neighborhood": "Paranã",
+            "lat": "-2.5343632774511207",
+            "lng": "-44.15554053240824",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 3916
+        },
+        {
+            "ca": "TA1906",
+            "neighborhood": "Manaíra",
+            "lat": "-2.5362559291056073",
+            "lng": "-44.15988702353314",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 33608
+        },
+        {
+            "ca": "TA1830",
+            "neighborhood": "Vila São José",
+            "lat": "-2.5316997411346875",
+            "lng": "-44.16109265557249",
+            "total": 14,
+            "online": 12,
+            "offline": 2,
+            "time": 3090
+        },
+        {
+            "ca": "TA1831",
+            "neighborhood": "Vila São José",
+            "lat": "-2.531300364066894",
+            "lng": "-44.16041021140777",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 1108
+        },
+        {
+            "ca": "TA1848",
+            "neighborhood": "Vila São José",
+            "lat": "-2.5253382126743986",
+            "lng": "-44.160510000607",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 7740
+        },
+        {
+            "ca": "TA2583",
+            "neighborhood": "Condomínio Village dos Pássaros III -  Vila Piçarreira",
+            "lat": "-2.556807545853488",
+            "lng": "-44.11603282662132",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 11470
+        },
+        {
+            "ca": "TA2585",
+            "neighborhood": "Condomínio Village dos Pássaros III -  Vila Piçarreira",
+            "lat": "-2.5573601424048746",
+            "lng": "-44.11784372564509",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1424
+        },
+        {
+            "ca": "TA2594",
+            "neighborhood": "Condomínio Village dos Pássaros III -  Vila Piçarreira",
+            "lat": "-2.5566073278737207",
+            "lng": "-44.11709321611171",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 418
+        },
+        {
+            "ca": "TA2596",
+            "neighborhood": "Condomínio Village dos Pássaros III -  Vila Piçarreira",
+            "lat": "-2.5564680760580387",
+            "lng": "-44.11809651798026",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1260
+        },
+        {
+            "ca": "TA2601",
+            "neighborhood": "Condomínio Village dos Pássaros III -  Vila Piçarreira",
+            "lat": "-2.55551572319537",
+            "lng": "-44.11656921214978",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 638
+        },
+        {
+            "ca": "BOSQUE5 B5B",
+            "neighborhood": "Condomínio Village do Bosque - Vila Santa Teresinha",
+            "lat": "-2.556979724823094",
+            "lng": "-44.195517708536",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 5541
+        },
+        {
+            "ca": "BOSQUE5 B6B",
+            "neighborhood": "Condomínio Village do Bosque - Vila Santa Teresinha",
+            "lat": "-2.556969006669192",
+            "lng": "-44.195166339154",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 70
+        },
+        {
+            "ca": "BOSQUE5 B8B",
+            "neighborhood": "Condomínio Village do Bosque - Vila Santa Teresinha",
+            "lat": "-2.5569395317454138",
+            "lng": "-44.194493104692",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 32739
+        },
+        {
+            "ca": "Plaza Norte B8A",
+            "neighborhood": "Condomínio Plaza Norte Residence - Maiobinha",
+            "lat": "-2.558995055178599",
+            "lng": "-44.199638487284005",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 513
+        },
+        {
+            "ca": "Plaza Norte B9B",
+            "neighborhood": "Condomínio Plaza Norte Residence - Maiobinha",
+            "lat": "-2.559045966328597",
+            "lng": "-44.199421228353",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 595
+        },
+        {
+            "ca": "TA740",
+            "neighborhood": "Cohatrac IV",
+            "lat": "-2.548775301175155",
+            "lng": "-44.18286436850623",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 426
+        },
+        {
+            "ca": "TA739",
+            "neighborhood": "Centro",
+            "lat": "-2.5510846835180985",
+            "lng": "-44.181808288196",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 200325
+        },
+        {
+            "ca": "TA752",
+            "neighborhood": "Cjr Lima Verde",
+            "lat": "-2.5513366187883975",
+            "lng": "-44.186026818781",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 28
+        },
+        {
+            "ca": "TA753",
+            "neighborhood": "Cjr Lima Verde",
+            "lat": "-2.546127562572593",
+            "lng": "-44.187979466944",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 125
+        },
+        {
+            "ca": "TA757",
+            "neighborhood": "Residencial La Belle Park -  Lima Verde",
+            "lat": "-2.546311046330601",
+            "lng": "-44.18691617265932",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 189
+        },
+        {
+            "ca": "TA759",
+            "neighborhood": "Cjr Lima Verde",
+            "lat": "-2.5474109733182217",
+            "lng": "-44.18629734121984",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 9187
+        },
+        {
+            "ca": "TA761",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.5448676138626",
+            "lng": "-44.186846344364",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 1015
+        },
+        {
+            "ca": "TA762",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.547206342980033",
+            "lng": "-44.18585549318784",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 4958
+        },
+        {
+            "ca": "TA766",
+            "neighborhood": "Cjr Lima Verde",
+            "lat": "-2.5490426379046625",
+            "lng": "-44.185517321465476",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 1814
+        },
+        {
+            "ca": "TA774",
+            "neighborhood": "Res Saramanta",
+            "lat": "-2.5513044641850087",
+            "lng": "-44.18267942193",
+            "total": 15,
+            "online": 13,
+            "offline": 2,
+            "time": 94
+        },
+        {
+            "ca": "DINAPOLI B8B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.533859774927251",
+            "lng": "-44.18696362412027",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 23146
+        },
+        {
+            "ca": "DINAPOLI B8A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.533693640551249",
+            "lng": "-44.18707895910791",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 587
+        },
+        {
+            "ca": "DINAPOLI B7A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5339642787979955",
+            "lng": "-44.18686706459574",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 43573
+        },
+        {
+            "ca": "DINAPOLI B11B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5328031614861146",
+            "lng": "-44.18688770976688",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 190
+        },
+        {
+            "ca": "DINAPOLI B9B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5329144064841955",
+            "lng": "-44.18725184069664",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 28771
+        },
+        {
+            "ca": "DINAPOLI B9A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5330912593127266",
+            "lng": "-44.18718478547127",
+            "total": 10,
+            "online": 7,
+            "offline": 3,
+            "time": 32402
+        },
+        {
+            "ca": "DINAPOLI B13B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5326812822642495",
+            "lng": "-44.18652630315818",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 5840
+        },
+        {
+            "ca": "VDS2 B2",
+            "neighborhood": "Sítio Trizidela",
+            "lat": "-2.541806554266813",
+            "lng": "-44.191635401151",
+            "total": 15,
+            "online": 13,
+            "offline": 2,
+            "time": 985
+        },
+        {
+            "ca": "VDS2 B4",
+            "neighborhood": "Cjr Alto Parana II",
+            "lat": "-2.5421014409832168",
+            "lng": "-44.191260693767006",
+            "total": 17,
+            "online": 16,
+            "offline": 1,
+            "time": 2676
+        },
+        {
+            "ca": "VDS2 B6",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.542323845228694",
+            "lng": "-44.190928099849",
+            "total": 14,
+            "online": 12,
+            "offline": 2,
+            "time": 38391
+        },
+        {
+            "ca": "VDS2 B7",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.542412271002405",
+            "lng": "-44.190810082652",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 5720
+        },
+        {
+            "ca": "VDS2 B8",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.5425382107302",
+            "lng": "-44.190630374648",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 324
+        },
+        {
+            "ca": "DINAPOLI B16A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5326756874118956",
+            "lng": "-44.185902555086",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 176
+        },
+        {
+            "ca": "DINAPOLI B14A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.5327801913781087",
+            "lng": "-44.186275382138994",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 597
+        },
+        {
+            "ca": "DINAPOLI B15B",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.532597979328898",
+            "lng": "-44.186160047152",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 275
+        },
+        {
+            "ca": "DINAPOLI B15A",
+            "neighborhood": "Jardim Di Napoli Residence - Trizidela",
+            "lat": "-2.532718560834894",
+            "lng": "-44.186076898672006",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 37455
+        },
+        {
+            "ca": "TA2751",
+            "neighborhood": "Pindaí",
+            "lat": "-2.549324997051812",
+            "lng": "-44.130070390020826",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 502
+        },
+        {
+            "ca": "TA2702 Plaza das Flores",
+            "neighborhood": "Condomínio Plaza das Flores - Pindaí",
+            "lat": "-2.54337988269333",
+            "lng": "-44.121573155141135",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 591
+        },
+        {
+            "ca": "TA2721 Plaza da Flores 3",
+            "neighborhood": "Condomínio Plaza das Flores 3 - Pindaí",
+            "lat": "-2.5411478016200704",
+            "lng": "-44.122576301312726",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 461
+        },
+        {
+            "ca": "TA2754",
+            "neighborhood": "Pindaí",
+            "lat": "-2.551044625483513",
+            "lng": "-44.12918643186747",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1132
+        },
+        {
+            "ca": "TA2731",
+            "neighborhood": "Pindaí",
+            "lat": "-2.549180100026163",
+            "lng": "-44.1291006420386",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 570
+        },
+        {
+            "ca": "TA2722",
+            "neighborhood": "Pindaí",
+            "lat": "-2.545978316902918",
+            "lng": "-44.13101659126498",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 395
+        },
+        {
+            "ca": "TA2723",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5461965763062153",
+            "lng": "-44.13056416175161",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 139
+        },
+        {
+            "ca": "TA2725",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5482253119666325",
+            "lng": "-44.12886701893754",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 595
+        },
+        {
+            "ca": "TA2706",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5488156195928013",
+            "lng": "-44.127271313888684",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 1900
+        },
+        {
+            "ca": "TA2708",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5472026313784113",
+            "lng": "-44.12884408332823",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 4969
+        },
+        {
+            "ca": "Posto JDP 01",
+            "neighborhood": "Turu",
+            "lat": "-2.5397152877899",
+            "lng": "-44.114550282202",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 96411
+        },
+        {
+            "ca": "TA3048",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5328160871787446",
+            "lng": "-44.188646494653746",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 20055
+        },
+        {
+            "ca": "TA3070",
+            "neighborhood": "Trizidela",
+            "lat": "-2.5309235078405123",
+            "lng": "-44.18678059970046",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 8538
+        },
+        {
+            "ca": "TA3067",
+            "neighborhood": "Trizidela",
+            "lat": "-2.5315374253513",
+            "lng": "-44.187540633845",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 253
+        },
+        {
+            "ca": "TA3036",
+            "neighborhood": "Trizidela",
+            "lat": "-2.5356753126233826",
+            "lng": "-44.188317405363",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 7494
+        },
+        {
+            "ca": "TA3046",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5350105187827836",
+            "lng": "-44.189619868377",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 4293
+        },
+        {
+            "ca": "TA605",
+            "neighborhood": "Vila Nazare",
+            "lat": "-2.5520932915179344",
+            "lng": "-44.166268763888866",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 139
+        },
+        {
+            "ca": "TA607",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.5536453502792114",
+            "lng": "-44.16535571232101",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 231
+        },
+        {
+            "ca": "TA612",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.555234490763496",
+            "lng": "-44.16660621104362",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 23
+        },
+        {
+            "ca": "TA622",
+            "neighborhood": "Vl Sarney Filho I",
+            "lat": "-2.558023720045682",
+            "lng": "-44.16391268387199",
+            "total": 11,
+            "online": 10,
+            "offline": 1,
+            "time": 1920
+        },
+        {
+            "ca": "TA579",
+            "neighborhood": "Vl Sarney Filho I",
+            "lat": "-2.5521605316330067",
+            "lng": "-44.16952289749306",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1517
+        },
+        {
+            "ca": "TA580",
+            "neighborhood": "Vl Sarney Filho I",
+            "lat": "-2.552143188307028",
+            "lng": "-44.17083141427757",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 4295
+        },
+        {
+            "ca": "TA581",
+            "neighborhood": "Vila Tijupa Queimado",
+            "lat": "-2.553080736223606",
+            "lng": "-44.171582762635",
+            "total": 12,
+            "online": 9,
+            "offline": 3,
+            "time": 20509
+        },
+        {
+            "ca": "TA590",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.5553366689031947",
+            "lng": "-44.17043984756013",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 261
+        },
+        {
+            "ca": "TA593",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.556170295093338",
+            "lng": "-44.16806066269865",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1276
+        },
+        {
+            "ca": "TA594",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.5565639819659225",
+            "lng": "-44.17010299301253",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 241
+        },
+        {
+            "ca": "TA597",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.5573783910862318",
+            "lng": "-44.16769863705052",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 62378
+        },
+        {
+            "ca": "TA600",
+            "neighborhood": "Vila Sarney Filho I",
+            "lat": "-2.5585605213239546",
+            "lng": "-44.170240907988834",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 125
+        },
+        {
+            "ca": "TA1917 pns",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.5524387540232425",
+            "lng": "-44.194271602943864",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 453
+        },
+        {
+            "ca": "TA2905",
+            "neighborhood": "Sítio Saramanta",
+            "lat": "-2.5536649726522853",
+            "lng": "-44.196538822245",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 526
+        },
+        {
+            "ca": "TA2847",
+            "neighborhood": "Matinha",
+            "lat": "-2.566150672644909",
+            "lng": "-44.15070198589219",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 2587
+        },
+        {
+            "ca": "TA2776",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.575264638650694",
+            "lng": "-44.154808625774",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 50893
+        },
+        {
+            "ca": "TA2781",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.570383335942651",
+            "lng": "-44.154381088094006",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 29
+        },
+        {
+            "ca": "TA2784",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5752681201292",
+            "lng": "-44.154245928845",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1811
+        },
+        {
+            "ca": "TA2788",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5752493670576797",
+            "lng": "-44.153988978767",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 33
+        },
+        {
+            "ca": "TA2811",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5717497608134323",
+            "lng": "-44.15164265160508",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 18462
+        },
+        {
+            "ca": "TA2829",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5717414143388027",
+            "lng": "-44.150829491092594",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 12668
+        },
+        {
+            "ca": "TA2857",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.573461101698058",
+            "lng": "-44.15024944273672",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 14243
+        },
+        {
+            "ca": "TA2869",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5734260578699946",
+            "lng": "-44.14944153712627",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 608
+        },
+        {
+            "ca": "TA2873",
+            "neighborhood": "Residencial Nova Terra",
+            "lat": "-2.5734738955715954",
+            "lng": "-44.149173187529",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1354
+        },
+        {
+            "ca": "TA2983",
+            "neighborhood": "Vila Sarney Filho II",
+            "lat": "-2.5629968965096026",
+            "lng": "-44.16995756101826",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 4658
+        },
+        {
+            "ca": "TA3004",
+            "neighborhood": "Vila Sarney Filho II",
+            "lat": "-2.5698730442166067",
+            "lng": "-44.171536729238",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 77
+        },
+        {
+            "ca": "TA3009",
+            "neighborhood": "Vila Sarney Filho",
+            "lat": "-2.5617248723072",
+            "lng": "-44.162636539043",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 562
+        },
+        {
+            "ca": "TA3026",
+            "neighborhood": "Vila Sarney Filho II",
+            "lat": "-2.5648179299184",
+            "lng": "-44.164053354068",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 633
+        },
+        {
+            "ca": "TA3034",
+            "neighborhood": "Vila Sarney Filho II",
+            "lat": "-2.566255518678",
+            "lng": "-44.163798407262",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 381
+        },
+        {
+            "ca": "TA3666",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.5235754770710486",
+            "lng": "-44.10257041495257",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 17782
+        },
+        {
+            "ca": "TA3669",
+            "neighborhood": "Vila Romualdo",
+            "lat": "-2.523432381697404",
+            "lng": "-44.10013385108341",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 4464
+        },
+        {
+            "ca": "TA3670",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.5230884686759083",
+            "lng": "-44.099862653890305",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 700
+        },
+        {
+            "ca": "TA3678",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.523170643929234",
+            "lng": "-44.10195546269289",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 5648
+        },
+        {
+            "ca": "TA3640",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.5242588178587653",
+            "lng": "-44.10186786239049",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 7843
+        },
+        {
+            "ca": "TA3645",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.524691175569373",
+            "lng": "-44.10350696318403",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 6038
+        },
+        {
+            "ca": "TA3646",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.5247512737509226",
+            "lng": "-44.104455030806726",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 509
+        },
+        {
+            "ca": "TA3591",
+            "neighborhood": "Maioba do Mocajituba",
+            "lat": "-2.5260760903657626",
+            "lng": "-44.11019833379739",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 617
+        },
+        {
+            "ca": "TA3597",
+            "neighborhood": "Maioba do Mocajituba",
+            "lat": "-2.526248658743299",
+            "lng": "-44.10946916001077",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 16180
+        },
+        {
+            "ca": "TA3613",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.521180925145373",
+            "lng": "-44.11205419986167",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 339
+        },
+        {
+            "ca": "TA3627",
+            "neighborhood": "Maioba do Mocajituba",
+            "lat": "-2.5222940627073456",
+            "lng": "-44.109893848631906",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 561
+        },
+        {
+            "ca": "TA2938",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.558177535109067",
+            "lng": "-44.19446035130126",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1237
+        },
+        {
+            "ca": "TA3176",
+            "neighborhood": "Vila Tijupa Queimado",
+            "lat": "-2.5542488511208035",
+            "lng": "-44.173567463374",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 5574
+        },
+        {
+            "ca": "TA3172",
+            "neighborhood": "Vila Tijupa Queimado",
+            "lat": "-2.55355765828007",
+            "lng": "-44.173962287448454",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1216
+        },
+        {
+            "ca": "TA3184",
+            "neighborhood": "Vila Tijupa Queimado",
+            "lat": "-2.553446505396238",
+            "lng": "-44.1751109558431",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 23204
+        },
+        {
+            "ca": "TA3189",
+            "neighborhood": "Vila Tijupa Queimado",
+            "lat": "-2.552211156028804",
+            "lng": "-44.17588109288922",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 251
+        },
+        {
+            "ca": "TA3092",
+            "neighborhood": "Vl Kiola I",
+            "lat": "-2.5528570727493047",
+            "lng": "-44.177823748853434",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 33457
+        },
+        {
+            "ca": "TA3124",
+            "neighborhood": "Vl Kiola I",
+            "lat": "-2.556119084956194",
+            "lng": "-44.184185863360995",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 39022
+        },
+        {
+            "ca": "TA3131",
+            "neighborhood": "Kiola Costa",
+            "lat": "-2.5549066630099446",
+            "lng": "-44.18652393579504",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 1096
+        },
+        {
+            "ca": "TA3132",
+            "neighborhood": "Vl Kiola I",
+            "lat": "-2.5542434053987932",
+            "lng": "-44.185580612049",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 126
+        },
+        {
+            "ca": "TA3099",
+            "neighborhood": "Vl Kiola I",
+            "lat": "-2.5558618490646836",
+            "lng": "-44.178515673504",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 5616
+        },
+        {
+            "ca": "TA3110",
+            "neighborhood": "Lima Verde",
+            "lat": "-2.552630318788502",
+            "lng": "-44.181680680141",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 151
+        },
+        {
+            "ca": "TA3143",
+            "neighborhood": "Kiola Costa",
+            "lat": "-2.5571100842869043",
+            "lng": "-44.18780543206",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 30
+        },
+        {
+            "ca": "TA3154",
+            "neighborhood": "Vila kiola",
+            "lat": "-2.5573919902997346",
+            "lng": "-44.1829247619365",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 10174
+        },
+        {
+            "ca": "TA3780",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5497991865205",
+            "lng": "-44.159599486197",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 27804
+        },
+        {
+            "ca": "TA3857",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5451313870890857",
+            "lng": "-44.153910896505",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 592
+        },
+        {
+            "ca": "TA3850",
+            "neighborhood": "Res Luis Fernando",
+            "lat": "-2.5454007101010063",
+            "lng": "-44.15152117655482",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 133
+        },
+        {
+            "ca": "TA3307",
+            "neighborhood": "Vila Operaria",
+            "lat": "-2.564462337996602",
+            "lng": "-44.184577065064",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1187
+        },
+        {
+            "ca": "TA3353",
+            "neighborhood": "Vl Operaria",
+            "lat": "-2.5588272285835956",
+            "lng": "-44.179612873358",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 536
+        },
+        {
+            "ca": "TA3354",
+            "neighborhood": "Vila São José",
+            "lat": "-2.558732912001986",
+            "lng": "-44.18083465907",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 36264
+        },
+        {
+            "ca": "TA3404",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5709543463186577",
+            "lng": "-44.18030767848837",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 92
+        },
+        {
+            "ca": "TA3441",
+            "neighborhood": "Jd Tropical I",
+            "lat": "-2.570970207839963",
+            "lng": "-44.177712330903184",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 419
+        },
+        {
+            "ca": "TA3442",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5705849119486004",
+            "lng": "-44.178319101705",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 39
+        },
+        {
+            "ca": "TA3456",
+            "neighborhood": "Vila Jardim Lima",
+            "lat": "-2.569780984730997",
+            "lng": "-44.173880069958",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 3098
+        },
+        {
+            "ca": "TA3369",
+            "neighborhood": "Vila Jardim Lima",
+            "lat": "-2.5664730683789543",
+            "lng": "-44.183008064255716",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 665
+        },
+        {
+            "ca": "TA3372",
+            "neighborhood": "Vila Jardim Lima",
+            "lat": "-2.56512103131746",
+            "lng": "-44.17614632410168",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 1135
+        },
+        {
+            "ca": "TA3384",
+            "neighborhood": "Vila Jardim Lima",
+            "lat": "-2.567305058538224",
+            "lng": "-44.17697093707827",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 1056
+        },
+        {
+            "ca": "TA3207",
+            "neighborhood": "Rec Signos",
+            "lat": "-2.568582744933451",
+            "lng": "-44.190044389720335",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 95128
+        },
+        {
+            "ca": "TA3219",
+            "neighborhood": "Vila Cafeteira",
+            "lat": "-2.5657046859238193",
+            "lng": "-44.19163777477899",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 146978
+        },
+        {
+            "ca": "TA3256",
+            "neighborhood": "Vila Cafeteira",
+            "lat": "-2.5615022496130706",
+            "lng": "-44.19223003857979",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 7
+        },
+        {
+            "ca": "TA3261",
+            "neighborhood": "Vila Cafeteira",
+            "lat": "-2.5608847388820095",
+            "lng": "-44.191756702421",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1387
+        },
+        {
+            "ca": "TA3265",
+            "neighborhood": "Vila Flamengo",
+            "lat": "-2.562323345089368",
+            "lng": "-44.18904422044147",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 532
+        },
+        {
+            "ca": "TA3268",
+            "neighborhood": "Vila Flamengo",
+            "lat": "-2.5618436746800057",
+            "lng": "-44.1889883301534",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1179
+        },
+        {
+            "ca": "TA4559",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.5594709819590378",
+            "lng": "-44.115299282445406",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 4331
+        },
+        {
+            "ca": "TA4557",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.5602890083846574",
+            "lng": "-44.115115051138154",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 528
+        },
+        {
+            "ca": "TA4564",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.560398058628607",
+            "lng": "-44.114422449001296",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 6090
+        },
+        {
+            "ca": "TA4565",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.560502254062243",
+            "lng": "-44.11406882152967",
+            "total": 11,
+            "online": 9,
+            "offline": 2,
+            "time": 475
+        },
+        {
+            "ca": "TA4570",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.5596109912516027",
+            "lng": "-44.113135731799204",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 303
+        },
+        {
+            "ca": "TA4574",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.559614706921707",
+            "lng": "-44.112399952277",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 31932
+        },
+        {
+            "ca": "TA4578",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.5603326710147627",
+            "lng": "-44.11144474291377",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 13214
+        },
+        {
+            "ca": "TA4579",
+            "neighborhood": "Condomínio Village dos Pássaros V -  Vila Piçarreira",
+            "lat": "-2.5614807409732947",
+            "lng": "-44.111718639798",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 697
+        },
+        {
+            "ca": "TA215 D",
+            "neighborhood": "Maiobão",
+            "lat": "-2.5294982793351",
+            "lng": "-44.171276979757",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 502
+        },
+        {
+            "ca": "TA4067",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5291707975134585",
+            "lng": "-44.18471451857281",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 73
+        },
+        {
+            "ca": "TA4070",
+            "neighborhood": "Trizidela",
+            "lat": "-2.532712179036821",
+            "lng": "-44.184375671797426",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 87
+        },
+        {
+            "ca": "TA3486",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5733832430271946",
+            "lng": "-44.188257065979",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 3920
+        },
+        {
+            "ca": "TA3460",
+            "neighborhood": "Jd Tropical I",
+            "lat": "-2.572124466584782",
+            "lng": "-44.18293629860071",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1008
+        },
+        {
+            "ca": "TA3491",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5732329414980484",
+            "lng": "-44.180294741874214",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 273
+        },
+        {
+            "ca": "TA3493",
+            "neighborhood": "Jd Tropical I",
+            "lat": "-2.5754708320713036",
+            "lng": "-44.179534584367",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 52929
+        },
+        {
+            "ca": "TA3521",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5760153492837787",
+            "lng": "-44.182831966685335",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 10052
+        },
+        {
+            "ca": "TA3540",
+            "neighborhood": "Jd Tropical I",
+            "lat": "-2.576550388006396",
+            "lng": "-44.175594555471",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 417
+        },
+        {
+            "ca": "TA3560",
+            "neighborhood": "Jardim Tropical",
+            "lat": "-2.5750251556594037",
+            "lng": "-44.17048381745901",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 310
+        },
+        {
+            "ca": "TA3561",
+            "neighborhood": "Jd Tropical II",
+            "lat": "-2.575031661527646",
+            "lng": "-44.171789871222686",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 314
+        },
+        {
+            "ca": "TA1882",
+            "neighborhood": "Condomínio Bianca - Vila São José",
+            "lat": "-2.5324234081732584",
+            "lng": "-44.159329448706664",
+            "total": 15,
+            "online": 13,
+            "offline": 2,
+            "time": 486
+        },
+        {
+            "ca": "TA1885",
+            "neighborhood": "Condomínio Bianca - Vila São José",
+            "lat": "-2.532340943548107",
+            "lng": "-44.159733086613",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 498
+        },
+        {
+            "ca": "TA1886",
+            "neighborhood": "Condomínio Bianca - Vila São José",
+            "lat": "-2.5314049732281063",
+            "lng": "-44.15828139681474",
+            "total": 16,
+            "online": 13,
+            "offline": 3,
+            "time": 2204
+        },
+        {
+            "ca": "TA1887",
+            "neighborhood": "Condomínio Bianca - Vila São José",
+            "lat": "-2.5325595251589306",
+            "lng": "-44.158619907264296",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 1681
+        },
+        {
+            "ca": "TA1698B",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.534441350731612",
+            "lng": "-44.185501488132",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 8924
+        },
+        {
+            "ca": "TA2364",
+            "neighborhood": "Forquilha",
+            "lat": "-2.5533930215106437",
+            "lng": "-44.21072990021433",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 2746
+        },
+        {
+            "ca": "TA2323",
+            "neighborhood": "Cohab Anil I",
+            "lat": "-2.5527858890182955",
+            "lng": "-44.21684133163",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 155884
+        },
+        {
+            "ca": "TA2411",
+            "neighborhood": "Planalto Anil III",
+            "lat": "-2.5463139322914827",
+            "lng": "-44.210565861222875",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 2
+        },
+        {
+            "ca": "TA2416",
+            "neighborhood": "Jardim das Margaridas",
+            "lat": "-2.543700042356093",
+            "lng": "-44.210502449885006",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 640
+        },
+        {
+            "ca": "TA2419",
+            "neighborhood": "Jardim das Margaridas",
+            "lat": "-2.544600028921394",
+            "lng": "-44.20889025850572",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 34336
+        },
+        {
+            "ca": "TA2421",
+            "neighborhood": "Jardim das Margaridas",
+            "lat": "-2.545494867614906",
+            "lng": "-44.2098653263618",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 646
+        },
+        {
+            "ca": "TA2298",
+            "neighborhood": "COHAB Anil IV",
+            "lat": "-2.5426754421031035",
+            "lng": "-44.21660396397999",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 9882
+        },
+        {
+            "ca": "TA2248",
+            "neighborhood": "COHAB Anil II",
+            "lat": "-2.539109372148772",
+            "lng": "-44.21892539750846",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 7
+        },
+        {
+            "ca": "TA2243",
+            "neighborhood": "COHAB Anil II",
+            "lat": "-2.5373586893311426",
+            "lng": "-44.21867955119483",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 648
+        },
+        {
+            "ca": "TA2238",
+            "neighborhood": "COHAB Anil I",
+            "lat": "-2.5360985493832686",
+            "lng": "-44.221881653869644",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 64
+        },
+        {
+            "ca": "TA2386",
+            "neighborhood": "Planalto Anil II",
+            "lat": "-2.538717286770293",
+            "lng": "-44.21173964899",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 503
+        },
+        {
+            "ca": "TA2262",
+            "neighborhood": "COHAB Anil I",
+            "lat": "-2.5375488966222974",
+            "lng": "-44.22038843785149",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 3022
+        },
+        {
+            "ca": "TA2219",
+            "neighborhood": "COHAB Anil I",
+            "lat": "-2.5343566124045083",
+            "lng": "-44.212809264021",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 284
+        },
+        {
+            "ca": "TA2187",
+            "neighborhood": "Itapiracó",
+            "lat": "-2.5310361561470245",
+            "lng": "-44.21756313638576",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 384
+        },
+        {
+            "ca": "TA2191",
+            "neighborhood": "Itapiracó",
+            "lat": "-2.5297039301212862",
+            "lng": "-44.21368960443008",
+            "total": 7,
+            "online": 5,
+            "offline": 2,
+            "time": 4615
+        },
+        {
+            "ca": "TA4838",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5345004303929954",
+            "lng": "-44.14547622922006",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 34896
+        },
+        {
+            "ca": "TA4216",
+            "neighborhood": "Vila Sao Jose",
+            "lat": "-2.5229739644465354",
+            "lng": "-44.15793905961598",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1059
+        },
+        {
+            "ca": "TA4243",
+            "neighborhood": "Vila São Jose I",
+            "lat": "-2.5231169279245904",
+            "lng": "-44.164167468492245",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1336
+        },
+        {
+            "ca": "TA4247",
+            "neighborhood": "Centro",
+            "lat": "-2.517344126845103",
+            "lng": "-44.165049251646",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 586
+        },
+        {
+            "ca": "TA4257",
+            "neighborhood": "Prq Thiago Aroso",
+            "lat": "-2.516000526102161",
+            "lng": "-44.166221281531534",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 319867
+        },
+        {
+            "ca": "TA4258",
+            "neighborhood": "Vila Sao Jose",
+            "lat": "-2.5147017699953693",
+            "lng": "-44.16639397633655",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 15974
+        },
+        {
+            "ca": "TA4282",
+            "neighborhood": "Prq Thiago Aroso",
+            "lat": "-2.5199772224465136",
+            "lng": "-44.17321875893958",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 691
+        },
+        {
+            "ca": "TA4321",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.51130479614622",
+            "lng": "-44.167533798179676",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 13982
+        },
+        {
+            "ca": "TA4333",
+            "neighborhood": "Prq Thiago Aroso",
+            "lat": "-2.5090657079046395",
+            "lng": "-44.16759183360332",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 5791
+        },
+        {
+            "ca": "TA4334",
+            "neighborhood": "Prq Thiago Aroso",
+            "lat": "-2.5077867855348615",
+            "lng": "-44.168015980791694",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 2849
+        },
+        {
+            "ca": "TA4207",
+            "neighborhood": "Prq Thiago Aroso",
+            "lat": "-2.5166667457221763",
+            "lng": "-44.17519988634678",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 59065
+        },
+        {
+            "ca": "TA4346",
+            "neighborhood": "Conjunto Maiobao",
+            "lat": "-2.511846241545797",
+            "lng": "-44.16288063257501",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 48935
+        },
+        {
+            "ca": "TA4350",
+            "neighborhood": "Vila do Povo",
+            "lat": "-2.5148903856926523",
+            "lng": "-44.16059991079431",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1533
+        },
+        {
+            "ca": "TA4412",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.514612850534661",
+            "lng": "-44.15663682810989",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1139
+        },
+        {
+            "ca": "TA4364",
+            "neighborhood": "Vila São José",
+            "lat": "-2.5188929582988493",
+            "lng": "-44.16036575294228",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 395
+        },
+        {
+            "ca": "TA4161",
+            "neighborhood": "Vila Nova",
+            "lat": "-2.537004182945907",
+            "lng": "-44.115799499385",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1202
+        },
+        {
+            "ca": "TA4164",
+            "neighborhood": "Maioba do Mocajituba",
+            "lat": "-2.537002455491006",
+            "lng": "-44.112619478428",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 5862
+        },
+        {
+            "ca": "TA4592",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5488684086593",
+            "lng": "-44.140240031367",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 2557
+        },
+        {
+            "ca": "TA5063",
+            "neighborhood": "Paco Do Lumiar",
+            "lat": "-2.5223422525163244",
+            "lng": "-44.148083344920146",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 4861
+        },
+        {
+            "ca": "TA1318A",
+            "neighborhood": "Cohatrac II",
+            "lat": "-2.53729653291127",
+            "lng": "-44.20951759071877",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 13
+        },
+        {
+            "ca": "TA5194",
+            "neighborhood": "Maiobinha",
+            "lat": "-2.560124165515603",
+            "lng": "-44.201898836115994",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 14288
+        },
+        {
+            "ca": "TA5488",
+            "neighborhood": "Turu",
+            "lat": "-2.5270996332810256",
+            "lng": "-44.2211015228321",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 467
+        },
+        {
+            "ca": "TA5273",
+            "neighborhood": "Maioba do Mocajituba",
+            "lat": "-2.5011774254318055",
+            "lng": "-44.14408883128001",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 2236
+        },
+        {
+            "ca": "TA5283",
+            "neighborhood": "Pindoba",
+            "lat": "-2.497988096796348",
+            "lng": "-44.137656609580716",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 548
+        },
+        {
+            "ca": "TA4945",
+            "neighborhood": "Vila Doutor José Silva",
+            "lat": "-2.5553021244238607",
+            "lng": "-44.128710567523875",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 3241
+        },
+        {
+            "ca": "TA1731A",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.5366690003638723",
+            "lng": "-44.19403211656562",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 479
+        },
+        {
+            "ca": "TA5408",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.5652367738018995",
+            "lng": "-44.09937290416476",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 142
+        },
+        {
+            "ca": "TA5413",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.5659561359090475",
+            "lng": "-44.09841912451889",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 501
+        },
+        {
+            "ca": "TA5438",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.566778419079",
+            "lng": "-44.10116015529477",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1920
+        },
+        {
+            "ca": "TA5440",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.567159197419514",
+            "lng": "-44.101930461491456",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 308
+        },
+        {
+            "ca": "TA5448",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.567871974299905",
+            "lng": "-44.099990989964",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 5
+        },
+        {
+            "ca": "TA5452",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.565963652522754",
+            "lng": "-44.10405562176611",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 299
+        },
+        {
+            "ca": "TA5454",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.565965894396058",
+            "lng": "-44.10242913621084",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 709
+        },
+        {
+            "ca": "TA5471",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.5678679815455894",
+            "lng": "-44.102615626195664",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 38041
+        },
+        {
+            "ca": "TA5382",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.56523640343606",
+            "lng": "-44.10317993866065",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 312
+        },
+        {
+            "ca": "TA5374",
+            "neighborhood": "Residencial Turiúba",
+            "lat": "-2.563797502387061",
+            "lng": "-44.101787003243196",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 48
+        },
+        {
+            "ca": "TA5352",
+            "neighborhood": "Vila Sao Jose",
+            "lat": "-2.5622471530479203",
+            "lng": "-44.10052672365751",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 22
+        },
+        {
+            "ca": "TA3669A",
+            "neighborhood": "Iguaíba",
+            "lat": "-2.5234376035387",
+            "lng": "-44.10022276625",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 74
+        },
+        {
+            "ca": "TA3076A",
+            "neighborhood": "Trizidela",
+            "lat": "-2.529904592717628",
+            "lng": "-44.18716017865925",
+            "total": 14,
+            "online": 13,
+            "offline": 1,
+            "time": 314
+        },
+        {
+            "ca": "Novo Anil A3",
+            "neighborhood": "Residencial Novo Anil - COHAB Anil IV",
+            "lat": "-2.5383611275406963",
+            "lng": "-44.21627879622201",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 5614
+        },
+        {
+            "ca": "TA2069",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.521857969865806",
+            "lng": "-44.20170995230939",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 945
+        },
+        {
+            "ca": "TA2028",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.5175379488061793",
+            "lng": "-44.201803204796896",
+            "total": 2,
+            "online": 0,
+            "offline": 2,
+            "time": 542
+        },
+        {
+            "ca": "TA2041",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.510457296379599",
+            "lng": "-44.20205977628921",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 7339
+        },
+        {
+            "ca": "TA1996",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.517125026049669",
+            "lng": "-44.20312932862072",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 27832
+        },
+        {
+            "ca": "TA2023",
+            "neighborhood": "Turu",
+            "lat": "-2.5172783015094353",
+            "lng": "-44.19946436086742",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 36701
+        },
+        {
+            "ca": "TA1942",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.5129615809407966",
+            "lng": "-44.207585013834",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 396
+        },
+        {
+            "ca": "TA1951",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.519118858135002",
+            "lng": "-44.209000771542776",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 2746
+        },
+        {
+            "ca": "TA1953",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.5191395647960206",
+            "lng": "-44.206932988540004",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 957
+        },
+        {
+            "ca": "TA1952",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.5188553127327395",
+            "lng": "-44.207744533298346",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1824
+        },
+        {
+            "ca": "TA1969",
+            "neighborhood": "Parque Vitória",
+            "lat": "-2.515492332441923",
+            "lng": "-44.2104787606362",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1316
+        },
+        {
+            "ca": "TA1670",
+            "neighborhood": "Alto do Turu",
+            "lat": "-2.5057981131731992",
+            "lng": "-44.19981235986399",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 391
+        },
+        {
+            "ca": "TA1562",
+            "neighborhood": "Alto do Turu",
+            "lat": "-2.5074848074161906",
+            "lng": "-44.192336696582",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 50663
+        },
+        {
+            "ca": "TA1636",
+            "neighborhood": "Alto do Turu",
+            "lat": "-2.511784793532996",
+            "lng": "-44.191090540017434",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1158
+        },
+        {
+            "ca": "TA5541A",
+            "neighborhood": "Cantinho do Céu",
+            "lat": "-2.517356182378",
+            "lng": "-44.228523670379",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 308955
+        },
+        {
+            "ca": "TA4019",
+            "neighborhood": "Vila Maioba do Janipapeiro",
+            "lat": "-2.5161015444672046",
+            "lng": "-44.187977341231",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1111
+        },
+        {
+            "ca": "TA4024",
+            "neighborhood": "Alto Do Itapiraco",
+            "lat": "-2.517901885835201",
+            "lng": "-44.188213421574",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 1384
+        },
+        {
+            "ca": "TA5667",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.4900194015245916",
+            "lng": "-44.200280355331905",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 415
+        },
+        {
+            "ca": "TA5789",
+            "neighborhood": "Araçagi",
+            "lat": "-2.4798277398323876",
+            "lng": "-44.19973847329367",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1094
+        },
+        {
+            "ca": "TA5795",
+            "neighborhood": "Araçagi",
+            "lat": "-2.4771522258116363",
+            "lng": "-44.19684061959986",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 151713
+        },
+        {
+            "ca": "TA5654",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.488403906066594",
+            "lng": "-44.198960643685",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4111
+        },
+        {
+            "ca": "TA5655",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.4897014357887883",
+            "lng": "-44.19888304511333",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 38973
+        },
+        {
+            "ca": "TA5740",
+            "neighborhood": "VILA RIO SÃO JOÃO",
+            "lat": "-2.4816808752979966",
+            "lng": "-44.18929208671499",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 4348
+        },
+        {
+            "ca": "Bela Cintra B4B",
+            "neighborhood": "Bela Cintra Life Club Residence - Maiobinha",
+            "lat": "-2.5642176372778067",
+            "lng": "-44.205296017554",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 607
+        },
+        {
+            "ca": "Bela Cintra B10A",
+            "neighborhood": "Bela Cintra Life Club Residence - Maiobinha",
+            "lat": "-2.5647356031480513",
+            "lng": "-44.204459062080744",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 29104
+        },
+        {
+            "ca": "TA5987",
+            "neighborhood": "Boa Vista",
+            "lat": "-2.4970848357806",
+            "lng": "-44.174786311209",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 14707
+        },
+        {
+            "ca": "TA5952",
+            "neighborhood": "Boa Vista",
+            "lat": "-2.4863920139530364",
+            "lng": "-44.18286123138002",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 11761
+        },
+        {
+            "ca": "TA6082",
+            "neighborhood": "Agaracy",
+            "lat": "-2.474436330199765",
+            "lng": "-44.19802570875566",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 1473
+        },
+        {
+            "ca": "TA6125",
+            "neighborhood": "Agaracy",
+            "lat": "-2.4658395808309024",
+            "lng": "-44.19775739764281",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 3044
+        },
+        {
+            "ca": "TA6779",
+            "neighborhood": "Mocajituba",
+            "lat": "-2.497073504678326",
+            "lng": "-44.15667988934007",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1143
+        },
+        {
+            "ca": "TA6735",
+            "neighborhood": "Vila Piramide mocajutuba",
+            "lat": "-2.4768779933503424",
+            "lng": "-44.166515843145895",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 485
+        },
+        {
+            "ca": "TA6751",
+            "neighborhood": "Vila Piramide",
+            "lat": "-2.4876948912056065",
+            "lng": "-44.16563974758499",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 543
+        },
+        {
+            "ca": "TA6609",
+            "neighborhood": "Alto do Farol",
+            "lat": "-2.4649462836325",
+            "lng": "-44.15652434452007",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 93
+        },
+        {
+            "ca": "TA6672",
+            "neighborhood": "Alto do Farol",
+            "lat": "-2.473875858943188",
+            "lng": "-44.164099512537",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 229
+        },
+        {
+            "ca": "TA6657",
+            "neighborhood": "Alto do Farol",
+            "lat": "-2.4687372986540908",
+            "lng": "-44.16390413362374",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 2754
+        },
+        {
+            "ca": "TA6642",
+            "neighborhood": "Alto do Farol",
+            "lat": "-2.467072807300994",
+            "lng": "-44.164299920095",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1438
+        },
+        {
+            "ca": "LABELLE 2 BL 4A",
+            "neighborhood": "Residencial La Belle Park",
+            "lat": "-2.549753987079285",
+            "lng": "-44.179619216849005",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4801
+        },
+        {
+            "ca": "LABELLE 2 BL 4B",
+            "neighborhood": "Residencial La Belle Park",
+            "lat": "-2.5497459484187033",
+            "lng": "-44.179554843832",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 438
+        },
+        {
+            "ca": "LABELLE 2 BL 5A",
+            "neighborhood": "Residencial Saramanta",
+            "lat": "-2.549582495641303",
+            "lng": "-44.179670178819",
+            "total": 8,
+            "online": 6,
+            "offline": 2,
+            "time": 541
+        },
+        {
+            "ca": "LABELLE 2 BL 5B",
+            "neighborhood": "Residencial La Belle Park",
+            "lat": "-2.549566418317795",
+            "lng": "-44.179616534639",
+            "total": 9,
+            "online": 7,
+            "offline": 2,
+            "time": 612
+        },
+        {
+            "ca": "LABELLE 2 BL 11B",
+            "neighborhood": "Residencial Saramanta",
+            "lat": "-2.5504694276754947",
+            "lng": "-44.180230760503996",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 4275
+        },
+        {
+            "ca": "LABELLE 2 BL 10B",
+            "neighborhood": "Residencial Saramanta",
+            "lat": "-2.5503300909613813",
+            "lng": "-44.180273675847",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 225
+        },
+        {
+            "ca": "LABELLE 2 BL 10A",
+            "neighborhood": "Residencial Saramanta",
+            "lat": "-2.55035956603669",
+            "lng": "-44.180338048863995",
+            "total": 5,
+            "online": 3,
+            "offline": 2,
+            "time": 1690
+        },
+        {
+            "ca": "LABELLE 2 BL 6B",
+            "neighborhood": "Residencial Saramanta",
+            "lat": "-2.549689677792699",
+            "lng": "-44.18045338385101",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 60764
+        },
+        {
+            "ca": "TA7223",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.5726459793161354",
+            "lng": "-44.19228597845226",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 3275
+        },
+        {
+            "ca": "TA7226",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.5718223057481993",
+            "lng": "-44.193509597743656",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1546
+        },
+        {
+            "ca": "TA7229",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.5736036424034694",
+            "lng": "-44.19378207588025",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 443
+        },
+        {
+            "ca": "TA7269",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.566131547356804",
+            "lng": "-44.1981295031694",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 14792
+        },
+        {
+            "ca": "TA7305",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.573112635300305",
+            "lng": "-44.19683234095999",
+            "total": 3,
+            "online": 1,
+            "offline": 2,
+            "time": 18895
+        },
+        {
+            "ca": "BOSQUE3 B3A",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.558117486816414",
+            "lng": "-44.19642562444599",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 535
+        },
+        {
+            "ca": "BOSQUE3 B6B",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.557993708868281",
+            "lng": "-44.195278407588",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 123
+        },
+        {
+            "ca": "BOSQUE3 B8A",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.557955423649503",
+            "lng": "-44.194755162953",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 653
+        },
+        {
+            "ca": "BOSQUE3 B8B",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.557937560182097",
+            "lng": "-44.194603171055",
+            "total": 4,
+            "online": 2,
+            "offline": 2,
+            "time": 601
+        },
+        {
+            "ca": "BOSQUE3 B9B",
+            "neighborhood": "Vila Santa Teresinha",
+            "lat": "-2.557901832919697",
+            "lng": "-44.194266404847",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 2108
+        },
+        {
+            "ca": "TA7047",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.5834099873413408",
+            "lng": "-44.19496006639953",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 43520
+        },
+        {
+            "ca": "TA7079",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.5769881139489",
+            "lng": "-44.197490852780994",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 329
+        },
+        {
+            "ca": "TA7128",
+            "neighborhood": "Cidade Operária",
+            "lat": "-2.580871432403711",
+            "lng": "-44.202016617244354",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 452
+        },
+        {
+            "ca": "TA6348",
+            "neighborhood": "Moropia",
+            "lat": "-2.5560108303185984",
+            "lng": "-44.076922478168",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 464
+        },
+        {
+            "ca": "TA6363",
+            "neighborhood": "Moropia",
+            "lat": "-2.557319580177122",
+            "lng": "-44.070512257233986",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1198
+        },
+        {
+            "ca": "TA6374",
+            "neighborhood": "Moropóia",
+            "lat": "-2.5560347949355986",
+            "lng": "-44.068266915612",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 271
+        },
+        {
+            "ca": "TA6385",
+            "neighborhood": "Moropia",
+            "lat": "-2.5579349526876882",
+            "lng": "-44.06470405633001",
+            "total": 9,
+            "online": 8,
+            "offline": 1,
+            "time": 208
+        },
+        {
+            "ca": "TA6396",
+            "neighborhood": "Moropia",
+            "lat": "-2.5585331326366827",
+            "lng": "-44.06141223895708",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 1146
+        },
+        {
+            "ca": "TA6416",
+            "neighborhood": "Moropia",
+            "lat": "-2.5593523426383484",
+            "lng": "-44.057862982093326",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 120
+        },
+        {
+            "ca": "TA6412",
+            "neighborhood": "Moropia",
+            "lat": "-2.558340941597521",
+            "lng": "-44.0587148446611",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 32047
+        },
+        {
+            "ca": "TA6421",
+            "neighborhood": "Moropia",
+            "lat": "-2.5602617528221003",
+            "lng": "-44.057725298137",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 373
+        },
+        {
+            "ca": "TA6429",
+            "neighborhood": "",
+            "lat": "-2.5626016128753832",
+            "lng": "-44.0566664804919",
+            "total": 6,
+            "online": 5,
+            "offline": 1,
+            "time": 500
+        },
+        {
+            "ca": "TA6440",
+            "neighborhood": "Moropia",
+            "lat": "-2.5577095208633978",
+            "lng": "-44.054313712221",
+            "total": 8,
+            "online": 7,
+            "offline": 1,
+            "time": 3239
+        },
+        {
+            "ca": "TA6445",
+            "neighborhood": "Moropia",
+            "lat": "-2.55636766174527",
+            "lng": "-44.05456771377013",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 1829
+        },
+        {
+            "ca": "TA6495",
+            "neighborhood": "Moropia",
+            "lat": "-2.5518838305110307",
+            "lng": "-44.06371408025267",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 20647
+        },
+        {
+            "ca": "TA6526",
+            "neighborhood": "Moropia",
+            "lat": "-2.5469803954842973",
+            "lng": "-44.067663869084654",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 4609
+        },
+        {
+            "ca": "TA6519",
+            "neighborhood": "Moropia",
+            "lat": "-2.547089759109568",
+            "lng": "-44.068683235208454",
+            "total": 4,
+            "online": 2,
+            "offline": 2,
+            "time": 285
+        },
+        {
+            "ca": "TA6541",
+            "neighborhood": "Moropia",
+            "lat": "-2.5448715387679357",
+            "lng": "-44.067486265447165",
+            "total": 3,
+            "online": 1,
+            "offline": 2,
+            "time": 1447
+        },
+        {
+            "ca": "TA6555",
+            "neighborhood": "Moropóia",
+            "lat": "-2.5448905715312122",
+            "lng": "-44.06234328517148",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 4037
+        },
+        {
+            "ca": "TA7480",
+            "neighborhood": "Moropia",
+            "lat": "-2.542818599112",
+            "lng": "-44.066458396603",
+            "total": 7,
+            "online": 6,
+            "offline": 1,
+            "time": 1172
+        },
+        {
+            "ca": "TA7488",
+            "neighborhood": "Pau Deitado",
+            "lat": "-2.530514874451441",
+            "lng": "-44.0633164113534",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 376
+        },
+        {
+            "ca": "TA7501",
+            "neighborhood": "Vila Roseana",
+            "lat": "-2.542360108337192",
+            "lng": "-44.07479696275996",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 3176
+        },
+        {
+            "ca": "TA6151",
+            "neighborhood": "Vila Roseana Sarney",
+            "lat": "-2.5486937608650635",
+            "lng": "-44.077704389243785",
+            "total": 15,
+            "online": 14,
+            "offline": 1,
+            "time": 1198
+        },
+        {
+            "ca": "TA6141",
+            "neighborhood": "Vila Roseana Sarney",
+            "lat": "-2.5479772586111125",
+            "lng": "-44.080972641911174",
+            "total": 10,
+            "online": 9,
+            "offline": 1,
+            "time": 0
+        },
+        {
+            "ca": "TA6171",
+            "neighborhood": "Vila Doutor Julinho",
+            "lat": "-2.5482642843745396",
+            "lng": "-44.08403486555911",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 439
+        },
+        {
+            "ca": "TA6172",
+            "neighborhood": "Vila Doutor Julinho",
+            "lat": "-2.5490040224387656",
+            "lng": "-44.084969866458174",
+            "total": 12,
+            "online": 11,
+            "offline": 1,
+            "time": 6079
+        },
+        {
+            "ca": "TA7446",
+            "neighborhood": "",
+            "lat": "-2.538641187836319",
+            "lng": "-44.080304221408504",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 3227
+        },
+        {
+            "ca": "TA6534",
+            "neighborhood": "Moropia",
+            "lat": "-2.547133977155184",
+            "lng": "-44.066201292078766",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 15
+        },
+        {
+            "ca": "TA1381A",
+            "neighborhood": "Jardim Aracagy",
+            "lat": "-2.5496795467863507",
+            "lng": "-44.20242471908205",
+            "total": 11,
+            "online": 6,
+            "offline": 5,
+            "time": 74
+        },
+        {
+            "ca": "TA02 Plaza das Flores 4",
+            "neighborhood": "",
+            "lat": "-2.539415099920461",
+            "lng": "-44.12143102218851",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1380
+        },
+        {
+            "ca": "TA03 Plaza das Flores 4",
+            "neighborhood": "",
+            "lat": "-2.5397279324579074",
+            "lng": "-44.12125943857994",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 1445
+        },
+        {
+            "ca": "CTO ADM",
+            "neighborhood": "Vila Kiola Costa",
+            "lat": "-2.550958971725251",
+            "lng": "-44.191559008813655",
+            "total": 4,
+            "online": 2,
+            "offline": 2,
+            "time": 1577721
+        },
+        {
+            "ca": "GVA4 B2A",
+            "neighborhood": "Novo Cohatrac",
+            "lat": "-2.4832154635771957",
+            "lng": "-44.19455714350161",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 431
+        },
+        {
+            "ca": "GVA4 B5B",
+            "neighborhood": "Araçagi",
+            "lat": "-2.482522432349697",
+            "lng": "-44.194415509779",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 537
+        },
+        {
+            "ca": "VITORIA D10A",
+            "neighborhood": "Forquilha",
+            "lat": "-2.5571030118664027",
+            "lng": "-44.212396798114995",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 229
+        },
+        {
+            "ca": "VITORIA B11A",
+            "neighborhood": "Forquilha",
+            "lat": "-2.559435959738",
+            "lng": "-44.211272381647",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 12198
+        },
+        {
+            "ca": "VITORIA C8A",
+            "neighborhood": "Forquilha",
+            "lat": "-2.560445546816794",
+            "lng": "-44.211966391829186",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 6887
+        },
+        {
+            "ca": "GIOVANA 11",
+            "neighborhood": "",
+            "lat": "-2.539680248353889",
+            "lng": "-44.10380047879201",
+            "total": 2,
+            "online": 0,
+            "offline": 2,
+            "time": 602
+        },
+        {
+            "ca": "STV 01",
+            "neighborhood": "",
+            "lat": "-2.561507256079807",
+            "lng": "-44.156034015109",
+            "total": 13,
+            "online": 12,
+            "offline": 1,
+            "time": 2708
+        },
+        {
+            "ca": "STV 02",
+            "neighborhood": "",
+            "lat": "-2.5620499077785013",
+            "lng": "-44.156415971048",
+            "total": 16,
+            "online": 15,
+            "offline": 1,
+            "time": 19746
+        },
+        {
+            "ca": "TA7805",
+            "neighborhood": "Turu",
+            "lat": "-2.506693509125995",
+            "lng": "-44.210070465594",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 34431
+        },
+        {
+            "ca": "TA7861",
+            "neighborhood": "Vivendas do turu",
+            "lat": "-2.500753756197099",
+            "lng": "-44.2214568030258",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 521
+        },
+        {
+            "ca": "TA6832",
+            "neighborhood": "Turu",
+            "lat": "-2.4867607413291353",
+            "lng": "-44.21312736345653",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 1902
+        },
+        {
+            "ca": "TA6853",
+            "neighborhood": "Vila Bacanga",
+            "lat": "-2.490029838269905",
+            "lng": "-44.209355533609",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 187
+        },
+        {
+            "ca": "TA7655",
+            "neighborhood": "Vila Luizão",
+            "lat": "-2.493960343943016",
+            "lng": "-44.212371571683164",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 15970
+        },
+        {
+            "ca": "TA7697",
+            "neighborhood": "Sol E Mar",
+            "lat": "-2.4849396073273056",
+            "lng": "-44.21713027832213",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 4392
+        },
+        {
+            "ca": "TA7521",
+            "neighborhood": "Turu",
+            "lat": "-2.4891974683854983",
+            "lng": "-44.21600158850992",
+            "total": 3,
+            "online": 2,
+            "offline": 1,
+            "time": 25
+        },
+        {
+            "ca": "TA7608",
+            "neighborhood": "Jardim Eldorado",
+            "lat": "-2.4923299491570248",
+            "lng": "-44.225939366774035",
+            "total": 4,
+            "online": 3,
+            "offline": 1,
+            "time": 447
+        },
+        {
+            "ca": "TA7609",
+            "neighborhood": "Divinéia",
+            "lat": "-2.4912298191551514",
+            "lng": "-44.22588167695261",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 478
+        },
+        {
+            "ca": "TA7617",
+            "neighborhood": "Olho D'agua",
+            "lat": "-2.492423867826588",
+            "lng": "-44.222654422249",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 6
+        },
+        {
+            "ca": "CDJ 07",
+            "neighborhood": "",
+            "lat": "-2.5295283556209824",
+            "lng": "-44.13756716465587",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 177
+        },
+        {
+            "ca": "CDJ 01",
+            "neighborhood": "Pindaí",
+            "lat": "-2.5295810640596414",
+            "lng": "-44.13840248591133",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 520
+        },
+        {
+            "ca": "Vivaldi",
+            "neighborhood": "Cantinho do Céu",
+            "lat": "-2.5208157571651952",
+            "lng": "-44.22757284989",
+            "total": 5,
+            "online": 4,
+            "offline": 1,
+            "time": 10071
+        },
+        {
+            "ca": "TA7772",
+            "neighborhood": "Cohajap",
+            "lat": "-2.497366206754023",
+            "lng": "-44.240071407411705",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 259
+        },
+        {
+            "ca": "PAS-01",
+            "neighborhood": "Cohatrac IV",
+            "lat": "-2.5346946638988896",
+            "lng": "-44.19996392990087",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 1862
+        },
+        {
+            "ca": "TA8101",
+            "neighborhood": "Vila Vicente Fialho",
+            "lat": "-2.507813844390782",
+            "lng": "-44.23694702790001",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 17560
+        },
+        {
+            "ca": "TA8135",
+            "neighborhood": "Vila Vicente Fialho",
+            "lat": "-2.508065260383404",
+            "lng": "-44.238812291239",
+            "total": 2,
+            "online": 1,
+            "offline": 1,
+            "time": 37
+        },
+        {
+            "ca": "TA8278",
+            "neighborhood": "Cantinho do Céu",
+            "lat": "-2.5205293468902283",
+            "lng": "-44.239302694587145",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 1980
+        },
+        {
+            "ca": "TA8271",
+            "neighborhood": "Residencial São Domingos II",
+            "lat": "-2.5230213859383497",
+            "lng": "-44.23978834900096",
+            "total": 1,
+            "online": 0,
+            "offline": 1,
+            "time": 47853
+        }
+    ]
+}
