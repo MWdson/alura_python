@@ -1,9 +1,11 @@
 import json
-with open("dados.json", "r", encoding="utf-8") as arquivo:
-    conteudo = json.load(arquivo)["listBoxesWithSomeClientOffline"]
+try:
+    with open("dados.json", "r", encoding="utf-8") as arquivo:
+        conteudo = json.load(arquivo)["listBoxesWithSomeClientOffline"]
 
-quantidade = sum(x["offline"] for x in conteudo)
+    quantidade = sum(x["offline"] for x in conteudo)
 
-print(quantidade)
+    print(quantidade)
 
-
+except Exception as e:
+    print(f"Ero encontrado: \n{e}")
